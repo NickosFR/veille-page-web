@@ -1,0 +1,8 @@
+#------------------------------------------------------------------------------
+Name;Exemple
+PathOut;docs/feeds/Exemple
+Freq;1234567
+Url;https://example.com
+DateDebut;2026-08-16
+DateFin;2026-12-31
+MaxItems;50

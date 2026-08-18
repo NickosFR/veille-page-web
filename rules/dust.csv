@@ -1,0 +1,8 @@
+#------------------------------------------------------------------------------
+Name;Dust
+PathOut;docs/feeds/Dust
+Freq;1234567
+Url;https://dust.tt/blog
+DateDebut;2026-08-18
+DateFin;2027-08-18
+MaxItems;50

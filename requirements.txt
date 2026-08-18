@@ -1,0 +1,5 @@
+feedgen>=1.0.0
+gspread>=6.1
+google-auth>=2.32
+requests>=2.31
+markdownify>=0.13

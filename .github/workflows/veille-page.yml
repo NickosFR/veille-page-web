@@ -1,0 +1,44 @@
+name: Veille page web
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Toutes les heures. Ajuster selon le besoin réel une fois en production.
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veille-page-web
+  cancel-in-progress: false
+
+jobs:
+  run-veille:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances Python
+        run: pip install -r requirements.txt
+
+      - name: Exécuter les veilles
+        env:
+          VEILLE_PAGE_WEB_GOOGLE_CREDENTIALS: ${{ secrets.VEILLE_PAGE_WEB_GOOGLE_CREDENTIALS }}
+        run: python main.py InputRules_Master.txt
+
+      - name: Committer les résultats (flux RSS, historique, état)
+        # PathOut (voir les fichiers de règles dans rules/) pointe vers docs/feeds/<nom>,
+        # servi par GitHub Pages (configurer Pages pour lire depuis /docs sur la branche
+        # par défaut). Sans ce commit, l'état et l'historique sont perdus à chaque run
+        # puisque le runner est éphémère.
+        run: |
+          git config user.name "veille-page-web-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "Veille automatique $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
