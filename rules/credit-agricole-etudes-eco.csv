@@ -3,6 +3,6 @@ Name;CreditAgricoleEtudesEco
 PathOut;docs/feeds/CreditAgricoleEtudesEco
 Freq;1234567
 Url;https://etudes-economiques.credit-agricole.com/fr
-DateDebut;2026-08-20
-DateFin;2027-08-20
+DateDebut;2026-08-19
+DateFin;2027-08-19
 MaxItems;50
