@@ -1,3 +1,4 @@
 #------------------------------------------------------------------------------
 Exec;rules/exemple_rules.csv
 Exec;rules/dust.csv
+Exec;rules/credit-agricole-etudes-eco.csv
