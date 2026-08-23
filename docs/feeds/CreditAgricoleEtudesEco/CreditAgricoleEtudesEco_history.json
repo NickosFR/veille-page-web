@@ -1,0 +1,9 @@
+[
+  {
+    "guid": "db75f83d0fa324d1",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-08-23T03:02:48.840468+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -275,7 +275,7 @@\n \n Image principale\n \n-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/PR-lib-office-exterior%204%20%281%29.png?itok=N8BgdnjP)](https://etudes-economiques.credit-agricole.com/fr/revolut-un-air-de-mystere)\n+![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/PR-lib-office-exterior%204%20%281%29.png?itok=UtMDwepT)\n \n [Fintech](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A261)\n "
+  }
+]
