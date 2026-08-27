@@ -26,5 +26,12 @@
     "detected_at": "2026-08-24T09:48:11.022452+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -113,7 +113,7 @@\n \n Image principale\n \n-![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=WO36CRVF \"ESPAGNE\")\n+[![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=3BHo-hk5 \"ESPAGNE\")](https://etudes-economiques.credit-agricole.com/fr/espagne-scenario-2026-2027-une-demande-interne-solide-dans-un-environnement-mondial-degrade)\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n "
+  },
+  {
+    "guid": "dfc339abed7be464",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-08-27T04:19:40.357754+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -243,7 +243,7 @@\n \n Image principale\n \n-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=fdbX_r4v)](https://etudes-economiques.credit-agricole.com/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)\n+![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=7U9op4JO)\n \n [Maroc – Les atouts du pilotage économique et de la stabilité dans un monde incertain](/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)\n "
   }
 ]
