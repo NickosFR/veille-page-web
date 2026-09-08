@@ -145,5 +145,12 @@
     "detected_at": "2026-09-08T18:23:40.884712+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -133,7 +133,7 @@\n \n Image principale\n \n-[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=Tkzsqcnc \"Scénario France\")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-la-croissance-en-reflux-dans-lattente-dun-rechauffement-de-la-demande)\n+[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/image_lire_aussi/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=MM4a_nvq \"Scénario France\")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-la-croissance-en-reflux-dans-lattente-dun-rechauffement-de-la-demande)\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n "
+  },
+  {
+    "guid": "b302c0f79c36766c",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-09-08T23:52:37.145315+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -287,7 +287,7 @@\n \n Image principale\n \n-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=fdbX_r4v)](https://etudes-economiques.credit-agricole.com/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)\n+![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=7U9op4JO)\n \n [Maroc – Les atouts du pilotage économique et de la stabilité dans un monde incertain](/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)\n "
   }
 ]
