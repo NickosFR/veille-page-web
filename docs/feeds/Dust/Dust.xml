@@ -1,2 +1,66 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 10 Sep 2026 05:49:14 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 10 Sep 2026 10:47:20 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
++++ 
+@@ -0,0 +1,195 @@
++Blog | Dust
++
++[NewDust announces Series B to fuel next chapter of growth](/blog/series-b-multiplayer-ai)
++
++Product
++
++* [Product](/home/product)
++* [Chrome Extension](/home/chrome-extension)
++* [Frames](/home/frames)
++* [Integrations](/integrations)
++
++Solutions
++
++* Departments
++* [Sales](/home/solutions/sales)
++* [Customer Support](/home/solutions/customer-support)
++* [Marketing &amp; Content](/home/solutions/marketing)
++* [Engineering](/home/solutions/engineering)
++* [Data &amp; Analytics](/home/solutions/data-analytics)
++
++* [Knowledge](/home/solutions/knowledge)
++* [IT](/home/solutions/it)
++* [Legal](/home/solutions/legal)
++* [People](/home/solutions/recruiting-people)
++* [Productivity](/home/solutions/productivity)
++* Industries
++* [B2B SaaS](/home/industry/b2b-saas)
++* [Consulting](/home/industry/consulting)
++* [Financial Services](/home/industry/financial-services)
++* [Insurance](/home/industry/insurance)
++* [Marketplaces](/home/industry/marketplace)
++* [Retail &amp; E-commerce](/home/industry/retail-ecommerce)
++
++Resources
++
++* Build
++* [Get Started](https://docs.dust.tt/docs/intro)
++* [Guides &amp; Tutorials](https://docs.dust.tt/docs/use-cases)
++* [Academy](/academy)
++* Explore
++* [Blog](https://dust.tt/blog)
++* [Online Events](https://app.getcontrast.io/dust)
++* [Events](https://lu.ma/dust)
++* [Customer Stories](/customers)
++* Connect
++* [Slack Community](https://dust-community.tightknit.community/join)
++* [Support](/home/support)
++* [Become a Partner](/home/partner)
++
++[Security](/home/security)[Pricing](/home/pricing)
++
++[Sign in](/api/workos/login?returnTo=%2Fapi%2Flogin)Try for free
++
++[Contact sales](/home/contact)
++
++![Dust](/_next/image?url=%2Fstatic%2Flanding%2Fabout%2FDust_Fade.png&amp;w=256&amp;q=75)
++
++# Blog
++
++Learn more about Dust, get product updates, AI agents best practices and more.
++
++[All](/blog)[Events](/blog?tag=Events)[Joining Dust](/blog?tag=Joining%20Dust)[News](/blog?tag=News)[Product](/blog?tag=Product)[Customer Stories]&lt;/pre&gt;</description><guid isPermaLink="false">1120492e88588bbe</guid><pubDate>Thu, 10 Sep 2026 10:47:19 +0000</pubDate></item></channel></rss>
