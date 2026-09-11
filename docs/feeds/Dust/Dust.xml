@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 11 Sep 2026 13:19:05 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 11 Sep 2026 17:35:00 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
++++ 
+@@ -163,6 +163,7 @@
+ 
+ ## Further reading
+ 
++* [What is AI agent memory and how it worksSeptember 11, 2026](/blog/ai-agent-memory)
+ * [Human-AI collaboration: What it means and how teams make it workSeptember 10, 2026](/blog/human-ai-collaboration)
+ * [What is AI orchestration? When you need it and how it worksAugust 17, 2026](/blog/what-is-ai-orchestration)
+ * [Supporting the Next Generation of Creative TalentAugust 6, 2026](/blog/supporting-the-next-generation-of-creative-talent)
+@@ -172,7 +173,6 @@
+ * [What is an Agent Operating System? A Guide to Running AI Agents at ScaleMay 21, 2026](/blog/agent-operating-system)
+ * [Multi-Agent Systems: How They Work and When to Use Them (2026)May 20, 2026](/blog/multi-agent-systems)
+ * [AI Agent Patterns: The 5 You Need to Know (2026)May 20, 2026](/blog/ai-agent-patterns)
+-* [AI Agent Monitoring: A Guide to Tracking PerformanceMay 13, 2026](/blog/ai-agent-monitoring)
+ 
+ Product
+ &lt;/pre&gt;</description><guid isPermaLink="false">75de2ba83204e025</guid><pubDate>Fri, 11 Sep 2026 17:34:59 +0000</pubDate></item><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -163,6 +163,7 @@
  

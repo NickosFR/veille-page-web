@@ -12,5 +12,12 @@
     "detected_at": "2026-09-10T18:10:01.352493+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -163,6 +163,7 @@\n \n ## Further reading\n \n+* [Human-AI collaboration: What it means and how teams make it workSeptember 10, 2026](/blog/human-ai-collaboration)\n * [What is AI orchestration? When you need it and how it worksAugust 17, 2026](/blog/what-is-ai-orchestration)\n * [Supporting the Next Generation of Creative TalentAugust 6, 2026](/blog/supporting-the-next-generation-of-creative-talent)\n * [How to Use AI for Content Creation: A Step-by-Step Guide for TeamsMay 29, 2026](/blog/how-to-use-ai-for-content-creation)\n@@ -172,7 +173,6 @@\n * [Multi-Agent Systems: How They Work and When to Use Them (2026)May 20, 2026](/blog/multi-agent-systems)\n * [AI Agent Patterns: The 5 You Need to Know (2026)May 20, 2026](/blog/ai-agent-patterns)\n * [AI Agent Monitoring: A Guide to Tracking PerformanceMay 13, 2026](/blog/ai-agent-monitoring)\n-* [AI Agent Testing: How to Know If Your Agent Works May 13, 2026](/blog/ai-agent-testing)\n \n Product\n "
+  },
+  {
+    "guid": "75de2ba83204e025",
+    "url": "https://dust.tt/blog",
+    "detected_at": "2026-09-11T17:34:59.224211+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -163,6 +163,7 @@\n \n ## Further reading\n \n+* [What is AI agent memory and how it worksSeptember 11, 2026](/blog/ai-agent-memory)\n * [Human-AI collaboration: What it means and how teams make it workSeptember 10, 2026](/blog/human-ai-collaboration)\n * [What is AI orchestration? When you need it and how it worksAugust 17, 2026](/blog/what-is-ai-orchestration)\n * [Supporting the Next Generation of Creative TalentAugust 6, 2026](/blog/supporting-the-next-generation-of-creative-talent)\n@@ -172,7 +173,6 @@\n * [What is an Agent Operating System? A Guide to Running AI Agents at ScaleMay 21, 2026](/blog/agent-operating-system)\n * [Multi-Agent Systems: How They Work and When to Use Them (2026)May 20, 2026](/blog/multi-agent-systems)\n * [AI Agent Patterns: The 5 You Need to Know (2026)May 20, 2026](/blog/ai-agent-patterns)\n-* [AI Agent Monitoring: A Guide to Tracking PerformanceMay 13, 2026](/blog/ai-agent-monitoring)\n \n Product\n "
   }
 ]
