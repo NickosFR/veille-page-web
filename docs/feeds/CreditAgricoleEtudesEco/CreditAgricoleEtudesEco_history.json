@@ -229,5 +229,12 @@
     "detected_at": "2026-09-12T23:48:05.380431+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -175,7 +175,7 @@\n \n Image principale\n \n-[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-06/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=WzilIPfZ \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-42)\n+![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-06/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=Tzi3VFGw \"Monde – L'actualité de la semaine\")\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n \n@@ -211,7 +211,7 @@\n \n Image principale\n \n-[![Zone euro – Forte révision à la hausse de la croissance au T2](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-09/zone-euro-graphique-shutterstock_2087119141.png?itok=vhm9xqlM \"Zone euro – Forte révision à la hausse de la croissance au T2\")](https://etudes-economiques.credit-agricole.com/fr/zone-euro-forte-revision-la-hausse-de-la-croissance-au-t2)\n+![Zone euro – Forte révision à la hausse de la croissance au T2](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-09/zone-euro-graphique-shutterstock_2087119141.png?itok=eRm1wY5h \"Zone euro – Forte révision à la hausse de la croissance au T2\")\n \n [Zone euro](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A43)\n "
+  },
+  {
+    "guid": "c2517515cba5151e",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-09-13T03:35:08.367828+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -229,7 +229,7 @@\n \n Image principale\n \n-![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=lOHqSDHc \"Monde – L'actualité de la semaine\")\n+[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=PvOcLk31 \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-119)\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
   }
 ]
