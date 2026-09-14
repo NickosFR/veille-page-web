@@ -250,5 +250,12 @@
     "detected_at": "2026-09-13T17:56:27.028249+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-500\n+499\n \n Publications ECO\n \n@@ -133,7 +133,7 @@\n \n Image principale\n \n-[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/image_lire_aussi/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=MM4a_nvq \"Scénario France\")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-la-croissance-en-reflux-dans-lattente-dun-rechauffement-de-la-demande)\n+[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=Tkzsqcnc \"Scénario France\")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-la-croissance-en-reflux-dans-lattente-dun-rechauffement-de-la-demande)\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n "
+  },
+  {
+    "guid": "758be808138b8ed3",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-09-14T18:22:10.328118+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-499\n+500\n \n Publications ECO\n "
   }
 ]
