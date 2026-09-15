@@ -257,5 +257,12 @@
     "detected_at": "2026-09-14T18:22:10.328118+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-499\n+500\n \n Publications ECO\n "
+  },
+  {
+    "guid": "0695befbcd525b11",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-09-15T07:17:15.220129+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -229,7 +229,7 @@\n \n Image principale\n \n-[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=PvOcLk31 \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-119)\n+![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=lOHqSDHc \"Monde – L'actualité de la semaine\")\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
   }
 ]
