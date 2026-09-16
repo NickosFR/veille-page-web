@@ -271,5 +271,12 @@
     "detected_at": "2026-09-15T13:11:59.548935+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -229,7 +229,7 @@\n \n Image principale\n \n-![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=lOHqSDHc \"Monde – L'actualité de la semaine\")\n+[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=PvOcLk31 \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-119)\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
+  },
+  {
+    "guid": "b4789523696e6140",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-09-16T04:39:27.901661+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -175,7 +175,7 @@\n \n Image principale\n \n-![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-06/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=Tzi3VFGw \"Monde – L'actualité de la semaine\")\n+[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-06/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=WzilIPfZ \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-42)\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
   }
 ]
