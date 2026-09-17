@@ -292,5 +292,12 @@
     "detected_at": "2026-09-16T21:56:07.475336+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -201,7 +201,7 @@\n \n Date de publication\n \n-10 Septembre 2026\n+11 Septembre 2026\n \n  • \n "
+  },
+  {
+    "guid": "bba744fa224095ec",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-09-17T11:07:27.951515+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -157,6 +157,24 @@\n \n Image principale\n \n+[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-02/Theme_technologie-media-telecommunication_1920px_2.png?itok=juoFvelj)](https://etudes-economiques.credit-agricole.com/fr/technologies-process-intelligence-la-nouvelle-ruee-vers-lor-des-entreprises)\n+\n+[Tech-Media-Télécom](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A4)\n+\n+[Technologies – Process intelligence, la nouvelle ruée vers l’or des entreprises](/fr/technologies-process-intelligence-la-nouvelle-ruee-vers-lor-des-entreprises)\n+\n+Date de publication\n+\n+17 Septembre 2026\n+\n+ • \n+\n+Type de contenu\n+\n+Publication ECO\n+\n+Image principale\n+\n [![Italie](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-11/Italie-billets-GettyImages-518178066-1920px.jpg?itok=cg7sJR2O \"Italie\")](https://etudes-economiques.credit-agricole.com/fr/italie-la-croissance-tient-linflation-repart)\n \n [Italie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A41)\n@@ -276,24 +294,6 @@\n Date de publication\n \n 14 Août 2026\n-\n- • \n-\n-Type de contenu\n-\n-Publication ECO\n-\n-Image principale\n-\n-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-08/Revolut.INT5_.png?itok=A_cuE912)](https://etudes-economiques.credit-agricole.com/fr/revolut-lenvers-de-lecran)\n-\n-[Fintech](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A261)\n-\n-[Revolut, l’envers de l’écran](/fr/revolut-lenvers-de-lecran)\n-\n-Date de publication\n-\n-13 Août 2026\n \n  • \n "
   }
 ]
