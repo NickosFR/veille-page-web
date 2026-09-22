@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 22 Sep 2026 03:40:44 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 22 Sep 2026 09:05:49 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-497
++498
+ 
+ Publications ECO
+ 
+@@ -157,6 +157,24 @@
+ 
+ Image principale
+ 
++[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-09/PaysEmergents_shutterstock_2290602565_1920.png?itok=lcCtLu6y)](https://etudes-economiques.credit-agricole.com/fr/pays-emergents-covid-19-la-dette-en-heritage)
++
++[Pays émergents](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A245)
++
++[Pays émergents : Covid-19, la dette en héritage](/fr/pays-emergents-covid-19-la-dette-en-heritage)
++
++Date de publication
++
++22 Septembre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
+ [![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-GettyImages-1320085874-1920px.jpg?itok=GC_b8fuC "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-18-septembre-2026)
+ 
+ [Monde – L'actualité de la semaine – 18 septembre 2026](/fr/monde-lactualite-de-la-semaine-18-septembre-2026)
+@@ -272,24 +290,6 @@
+ Date de publication
+ 
+ 08 Septembre 2026
+-
+- • 
+-
+-Type de contenu
+-
+-Publication ECO
+-
+-Image principale
+-
+-[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=PvOcLk31 "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-119)
+-
+-[Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
+-
+-[Monde – L'actualité de la semaine](/fr/monde-lactualite-de-la-semaine-119)
+-
+-Date de publication
+-
+-04 Septembre 2026
+ 
+  • 
+ &lt;/pre&gt;</description><guid isPermaLink="false">58888a2f26b95e4f</guid><pubDate>Tue, 22 Sep 2026 09:05:47 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -113,7 +113,7 @@
  
@@ -961,14 +1021,4 @@
 +[![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=3BHo-hk5 "ESPAGNE")](https://etudes-economiques.credit-agricole.com/fr/espagne-scenario-2026-2027-une-demande-interne-solide-dans-un-environnement-mondial-degrade)
  
  [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">6d1f8caad6e75904</guid><pubDate>Mon, 24 Aug 2026 09:48:11 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -113,7 +113,7 @@
- 
- Image principale
- 
--[![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=3BHo-hk5 "ESPAGNE")](https://etudes-economiques.credit-agricole.com/fr/espagne-scenario-2026-2027-une-demande-interne-solide-dans-un-environnement-mondial-degrade)
-+![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=WO36CRVF "ESPAGNE")
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">747a5cf983c69d9f</guid><pubDate>Mon, 24 Aug 2026 03:03:51 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">6d1f8caad6e75904</guid><pubDate>Mon, 24 Aug 2026 09:48:11 +0000</pubDate></item></channel></rss>
