@@ -40,5 +40,12 @@
     "detected_at": "2026-09-22T09:05:46.087237+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -1,6 +1,4 @@\n Blog | Dust\n-\n-[NewDust announces Series B to fuel next chapter of growth](/blog/series-b-multiplayer-ai)\n \n Product\n "
+  },
+  {
+    "guid": "94d0c2a739286c2e",
+    "url": "https://dust.tt/blog",
+    "detected_at": "2026-09-22T14:23:55.742770+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -161,6 +161,7 @@\n \n ## Further reading\n \n+* [LLM cost optimization: what it is and how to manage costsSeptember 22, 2026](/blog/llm-cost-optimization)\n * [Claude vs Gemini: which AI is suitable for you?September 16, 2026](/blog/claude-vs-gemini)\n * [LLM observability: What to capture, what to trust, and how to act on itSeptember 15, 2026](/blog/llm-observability)\n * [What is AI agent memory and how it worksSeptember 11, 2026](/blog/ai-agent-memory)\n@@ -170,7 +171,6 @@\n * [How to Use AI for Content Creation: A Step-by-Step Guide for TeamsMay 29, 2026](/blog/how-to-use-ai-for-content-creation)\n * [AI for Strategic Planning: How to Plan Faster (2026)May 29, 2026](/blog/ai-for-strategic-planning)\n * [AI for Logistics: Everything You Need to KnowMay 29, 2026](/blog/ai-for-logistics)\n-* [What is an Agent Operating System? A Guide to Running AI Agents at ScaleMay 21, 2026](/blog/agent-operating-system)\n \n Product\n "
   }
 ]
