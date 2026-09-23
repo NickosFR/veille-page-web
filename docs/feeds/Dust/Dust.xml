@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 23 Sep 2026 10:55:19 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 23 Sep 2026 15:20:34 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
++++ 
+@@ -67,7 +67,7 @@
+ 
+ [## Dust welcomes AI Partners as an official partner](/blog/dust-welcomes-ai-partners-as-an-official-partner)
+ 
+-We're excited to announce that AI Partners, a Paris-based AI transformation firm, is now an official Dust partner - with Select Status. AI Partners helps...
++We're excited to announce that AI Partners, a Paris-based AI transformation firm, is now an official Dust partner. AI Partners helps complex organizations...
+ 
+ [Read full article](/blog/dust-welcomes-ai-partners-as-an-official-partner)
+ 
+@@ -99,7 +99,7 @@
+ 
+ On July 7, we brought together a room of 80 fintech operators in London for a panel that was supposed to last 40 minutes. We ran over (and it’s usually a good...
+ 
+-Events](/blog/rewiring-fintech-paddle-checkout-and-dust)[![NIJI Dust](https://images.ctfassets.net/751ge4ljeqso/2aawvpo1WB7l7lgxco71vR/82e5331f91d2a6c3309c60a691e6f6e7/NIJI____Dust.png?w=3840&amp;fm=webp&amp;q=75)
++Events](/blog/rewiring-fintech-paddle-checkout-and-dust)[![NIJI Dust](https://images.ctfassets.net/751ge4ljeqso/2aawvpo1WB7l7lgxco71vR/bd790a659d007d5562781d2cbc97cede/dust-x-logo-niji-standard-1-1920x1080.png?w=3840&amp;fm=webp&amp;q=75)
+ 
+ July 7, 2026
+ 
+@@ -163,6 +163,7 @@
+ 
+ ## Further reading
+ 
++* [ChatGPT vs Claude: Which is the right fit for you?September 23, 2026](/blog/chatgpt-vs-claude)
+ * [LLM cost optimization: what it is and how to manage costsSeptember 22, 2026](/blog/llm-cost-optimization)
+ * [Claude vs Gemini: which AI is suitable for you?September 16, 2026](/blog/claude-vs-gemini)
+ * [LLM observability: What to capture, what to trust, and how to act on itSeptember 15, 2026](/blog/llm-observability)
+@@ -172,7 +173,6 @@
+ * [Supporting the Next Generation of Creative TalentAugust 6, 2026](/blog/supporting-the-next-generation-of-creative-talent)
+ * [How to Use AI for Content Creation: A Step-by-Step Guide for TeamsMay 29, 2026](/blog/how-to-use-ai-for-content-creation)
+ * [AI for Strategic Planning: How to Plan Faster (2026)May 29, 2026](/blog/a&lt;/pre&gt;</description><guid isPermaLink="false">2664e1c0d431a29a</guid><pubDate>Wed, 23 Sep 2026 15:20:33 +0000</pubDate></item><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -59,17 +59,25 @@
  

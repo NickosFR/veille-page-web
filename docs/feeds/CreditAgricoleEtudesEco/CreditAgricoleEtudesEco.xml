@@ -1,5 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 23 Sep 2026 10:55:20 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 23 Sep 2026 15:20:36 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -157,6 +157,26 @@
+ 
+ Image principale
+ 
++[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/Theme_immobilier_1920px_1.png?itok=INH-aR1A)](https://etudes-economiques.credit-agricole.com/fr/france-immobilier-residentiel-essoufflement-au-premier-semestre-2026)
++
++[Immobilier](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A10)
++
++[France](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A18)
++
++[France – Immobilier résidentiel : essoufflement au premier semestre 2026](/fr/france-immobilier-residentiel-essoufflement-au-premier-semestre-2026)
++
++Date de publication
++
++23 Septembre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
+ [![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-09/PaysEmergents_shutterstock_2290602565_1920.png?itok=lcCtLu6y)](https://etudes-economiques.credit-agricole.com/fr/pays-emergents-covid-19-la-dette-en-heritage)
+ 
+ [Pays émergents](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A245)
+@@ -272,24 +292,6 @@
+ Date de publication
+ 
+ 11 Septembre 2026
+-
+- • 
+-
+-Type de contenu
+-
+-Publication ECO
+-
+-Image principale
+-
+-[![Zone euro – Forte révision à la hausse de la croissance au T2](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-09/zone-euro-graphique-shutterstock_2087119141.png?itok=vhm9xqlM "Zone euro – Forte révision à la hausse de la croissance au T2")](https://etudes-economiques.credit-agricole.com/fr/zone-euro-forte-revision-la-hausse-de-la-croissance-au-t2)
+-
+-[Zone euro](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A43)
+-
+-[Zone euro – Forte révision à la hausse de la croissance au T2](/fr/zone-euro-forte-revision-la-hausse-de-la-croissance-au-t2)
+-
+-Date de publication
+-
+-08 Septembre 2026
+ 
+  • 
+ &lt;/pre&gt;</description><guid isPermaLink="false">362be5c5b9d61343</guid><pubDate>Wed, 23 Sep 2026 15:20:34 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1011,14 +1064,4 @@
 +![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=7U9op4JO)
  
  [Maroc – Les atouts du pilotage économique et de la stabilité dans un monde incertain](/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)
- &lt;/pre&gt;</description><guid isPermaLink="false">dfc339abed7be464</guid><pubDate>Thu, 27 Aug 2026 04:19:40 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -113,7 +113,7 @@
- 
- Image principale
- 
--![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=WO36CRVF "ESPAGNE")
-+[![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=3BHo-hk5 "ESPAGNE")](https://etudes-economiques.credit-agricole.com/fr/espagne-scenario-2026-2027-une-demande-interne-solide-dans-un-environnement-mondial-degrade)
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">6d1f8caad6e75904</guid><pubDate>Mon, 24 Aug 2026 09:48:11 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">dfc339abed7be464</guid><pubDate>Thu, 27 Aug 2026 04:19:40 +0000</pubDate></item></channel></rss>
