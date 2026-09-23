@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 23 Sep 2026 05:33:35 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 23 Sep 2026 10:55:19 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
++++ 
+@@ -59,17 +59,25 @@
+ 
+ [All](/blog)[Events](/blog?tag=Events)[Joining Dust](/blog?tag=Joining%20Dust)[News](/blog?tag=News)[Product](/blog?tag=Product)[Customer Stories](/customers)
+ 
+-[![Your AI Deployment Won-t Pay Off](https://images.ctfassets.net/751ge4ljeqso/6RZeIXiio1IePoI8uAlqoS/9802b9993645b6f47a058f885c8b4fea/Your_AI_Deployment_Won-t_Pay_Off.png?w=3840&amp;fm=webp&amp;q=75)](/blog/ai-deployment-wont-pay-off)
++[![AI Partners ](https://images.ctfassets.net/751ge4ljeqso/6MAeud4GgRgasGSECRbP6W/b8340a268d2520b3d960b8413016c199/dust-x-aip-logo-2-black-1920x1080.png?w=3840&amp;fm=webp&amp;q=75)](/blog/dust-welcomes-ai-partners-as-an-official-partner)
++
++News
++
++September 23, 2026
++
++[## Dust welcomes AI Partners as an official partner](/blog/dust-welcomes-ai-partners-as-an-official-partner)
++
++We're excited to announce that AI Partners, a Paris-based AI transformation firm, is now an official Dust partner - with Select Status. AI Partners helps...
++
++[Read full article](/blog/dust-welcomes-ai-partners-as-an-official-partner)
++
++[![Your AI Deployment Won-t Pay Off](https://images.ctfassets.net/751ge4ljeqso/6RZeIXiio1IePoI8uAlqoS/9802b9993645b6f47a058f885c8b4fea/Your_AI_Deployment_Won-t_Pay_Off.png?w=3840&amp;fm=webp&amp;q=75)
+ 
+ August 3, 2026
+ 
+-[## Your AI deployment won't pay off: here's why](/blog/ai-deployment-wont-pay-off)
++### Your AI deployment won't pay off: here's why
+ 
+-Most companies measure the ROI of their AI deployment the wrong way. They count saved hours, multiply by hourly cost, and conclude the investment was worth it....
+-
+-[Read full article](/blog/ai-deployment-wont-pay-off)
+-
+-[![Onboarding at a multiplayer AI company](https://images.ctfassets.net/751ge4ljeqso/6gGhMWzZ5BHlxc6eX9Yzsb/ce28ac6d5a8ce819e07ec30386b5f63e/Onboarding_at_a_multiplayer_AI_company.jpg?w=3840&amp;fm=webp&amp;q=75)
++Most companies measure the ROI of their AI deployment the wrong way. They count saved hours, multiply by hourly cost, and conclude the investment was worth it....](/blog/ai-deploym&lt;/pre&gt;</description><guid isPermaLink="false">cc64611072ddad3a</guid><pubDate>Wed, 23 Sep 2026 10:55:18 +0000</pubDate></item><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -161,6 +161,7 @@
  
