@@ -1,5 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 25 Sep 2026 13:19:21 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 25 Sep 2026 18:15:50 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-499
++500
+ 
+ Publications ECO
+ 
+@@ -157,6 +157,42 @@
+ 
+ Image principale
+ 
++[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-09/shutterstock_2793361865.jpg?itok=YeLap8jl)](https://etudes-economiques.credit-agricole.com/fr/paiement-agentique-cherchons-nous-ladoption-au-mauvais-endroit)
++
++[Flux et paiements](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A65)
++
++[Paiement agentique : cherchons-nous l’adoption au mauvais endroit ?](/fr/paiement-agentique-cherchons-nous-ladoption-au-mauvais-endroit)
++
++Date de publication
++
++25 Septembre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
++[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=PvOcLk31 "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-25-septembre-2026)
++
++[Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
++
++[Monde – L'actualité de la semaine – 25 septembre 2026](/fr/monde-lactualite-de-la-semaine-25-septembre-2026)
++
++Date de publication
++
++25 Septembre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
+ [![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-09/Elections-Allemagne-shutterstock_2578908085_1920.jpg?itok=Foh-LvyG)](https://etudes-economiques.credit-agricole.com/fr/allemagne-elections-regionales-du-20-septembre-lafd-progresse-die-linke-gagne-berlin-et-merz)
+ 
+ [Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A57)
+@@ -215,6 +251,8 @@
+ 
+ [![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-GettyImages-1320085874-1920px.jpg?itok=GC_b8fuC "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/m&lt;/pre&gt;</description><guid isPermaLink="false">db7b5a0e21f0e2f5</guid><pubDate>Fri, 25 Sep 2026 18:15:48 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1092,14 +1148,4 @@
 +[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=fdbX_r4v)](https://etudes-economiques.credit-agricole.com/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)
  
  [Maroc – Les atouts du pilotage économique et de la stabilité dans un monde incertain](/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)
- &lt;/pre&gt;</description><guid isPermaLink="false">f0d9fd756f08d0e7</guid><pubDate>Sat, 29 Aug 2026 17:00:05 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -243,7 +243,7 @@
- 
- Image principale
- 
--[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=fdbX_r4v)](https://etudes-economiques.credit-agricole.com/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)
-+![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=7U9op4JO)
- 
- [Maroc – Les atouts du pilotage économique et de la stabilité dans un monde incertain](/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)
- &lt;/pre&gt;</description><guid isPermaLink="false">96b0f1093d941745</guid><pubDate>Fri, 28 Aug 2026 23:26:28 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">f0d9fd756f08d0e7</guid><pubDate>Sat, 29 Aug 2026 17:00:05 +0000</pubDate></item></channel></rss>
