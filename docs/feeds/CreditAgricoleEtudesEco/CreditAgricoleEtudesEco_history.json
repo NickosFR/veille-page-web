@@ -411,5 +411,12 @@
     "detected_at": "2026-09-26T10:56:13.792180+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-500\n+499\n \n Publications ECO\n "
+  },
+  {
+    "guid": "e7ea7cf1dcfa0628",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-09-27T17:33:33.581432+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-499\n+498\n \n Publications ECO\n "
   }
 ]
