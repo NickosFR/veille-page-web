@@ -1,0 +1,9 @@
+[
+  {
+    "guid": "5ce9ded6e5f6687f",
+    "url": "https://example.com",
+    "detected_at": "2026-09-28T19:20:48.306997+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -1,7 +1,5 @@\n Example Domain\n \n-# Example Domain\n+This domain is for use in documentation examples without needing permission. This is not a service, avoid relying on it for testing and monitoring purposes.\n \n-This domain is for use in documentation examples without needing permission. Avoid use in operations.\n-\n-[Learn more](https://iana.org/domains/example)\n+[Learn more](https://iana.org/help/example-domains)"
+  }
+]
