@@ -1,5 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 02 Oct 2026 08:00:31 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 02 Oct 2026 15:26:12 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-501
++502
+ 
+ Publications ECO
+ 
+@@ -73,6 +73,26 @@
+ 
+ Image principale
+ 
++[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
++
++[Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
++
++[Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
++
++[Monde – Scénario 2026-2027 : les couches de risque se superposent](/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
++
++Date de publication
++
++02 Octobre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
+ [![Scénario zone euro](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Europe-scenario-carte-GettyImages-2162898337-1920px.jpg?itok=UkZYDmYt "Scénario zone euro")](https://etudes-economiques.credit-agricole.com/fr/zone-euro-scenario-2026-2027-normalisation-plutot-que-rebond)
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+@@ -131,72 +151,72 @@
+ 
+ Publication ECO
+ 
+-Image principale
+-
+-[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=Tkzsqcnc "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-la-croissance-en-reflux-dans-lattente-dun-rechauffement-de-la-demande)
+-
+-[Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
++[Voir tous les scénarios](/fr/taxonomy/term/232)
++
++# Les dernières analyses
++
++Image principale
++
++[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/&lt;/pre&gt;</description><guid isPermaLink="false">92fa86158587564b</guid><pubDate>Fri, 02 Oct 2026 15:26:11 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -157,7 +157,7 @@
  
@@ -1190,14 +1243,4 @@
 +[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/image_lire_aussi/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=MM4a_nvq "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-la-croissance-en-reflux-dans-lattente-dun-rechauffement-de-la-demande)
  
  [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">71a9f8635c407f83</guid><pubDate>Tue, 08 Sep 2026 18:23:40 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--502
-+503
- 
- Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">8e402cf2053a15d2</guid><pubDate>Tue, 08 Sep 2026 14:56:13 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">71a9f8635c407f83</guid><pubDate>Tue, 08 Sep 2026 18:23:40 +0000</pubDate></item></channel></rss>
