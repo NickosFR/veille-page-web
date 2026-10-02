@@ -5,5 +5,12 @@
     "detected_at": "2026-09-28T19:20:48.306997+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -1,7 +1,5 @@\n Example Domain\n \n-# Example Domain\n+This domain is for use in documentation examples without needing permission. This is not a service, avoid relying on it for testing and monitoring purposes.\n \n-This domain is for use in documentation examples without needing permission. Avoid use in operations.\n-\n-[Learn more](https://iana.org/domains/example)\n+[Learn more](https://iana.org/help/example-domains)"
+  },
+  {
+    "guid": "cf39c14c1c3a96c4",
+    "url": "https://example.com",
+    "detected_at": "2026-10-02T20:23:24.805958+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -1,5 +1,3 @@\n Example Domain\n \n-This domain is for use in documentation examples without needing permission. This is not a service, avoid relying on it for testing and monitoring purposes.\n-\n-[Learn more](https://iana.org/help/example-domains)\n+This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes."
   }
 ]
