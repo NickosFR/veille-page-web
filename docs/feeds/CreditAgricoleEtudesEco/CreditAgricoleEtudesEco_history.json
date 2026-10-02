@@ -474,5 +474,12 @@
     "detected_at": "2026-10-01T21:35:05.179580+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-502\n+501\n \n Publications ECO\n \n@@ -157,7 +157,7 @@\n \n Image principale\n \n-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=PEvds3pw)](https://etudes-economiques.credit-agricole.com/fr/italie-la-sortie-de-la-procedure-pour-deficit-excessif-reportee-2027)\n+![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=WJij8Xm4)\n \n [Italie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A41)\n \n@@ -247,7 +247,7 @@\n \n Image principale\n \n-![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=lOHqSDHc \"Monde – L'actualité de la semaine\")\n+[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=PvOcLk31 \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-25-septembre-2026)\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
+  },
+  {
+    "guid": "cd4ad129537dea25",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-10-02T08:00:30.259717+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -157,7 +157,7 @@\n \n Image principale\n \n-![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=WJij8Xm4)\n+[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=PEvds3pw)](https://etudes-economiques.credit-agricole.com/fr/italie-la-sortie-de-la-procedure-pour-deficit-excessif-reportee-2027)\n \n [Italie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A41)\n "
   }
 ]
