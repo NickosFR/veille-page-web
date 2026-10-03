@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 02 Oct 2026 20:23:28 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sat, 03 Oct 2026 00:11:18 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -133,7 +133,7 @@
+ 
+ Image principale
+ 
+-[![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=3BHo-hk5 "ESPAGNE")](https://etudes-economiques.credit-agricole.com/fr/espagne-scenario-2026-2027-une-demande-interne-solide-dans-un-environnement-mondial-degrade)
++![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=WO36CRVF "ESPAGNE")
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+ &lt;/pre&gt;</description><guid isPermaLink="false">b8da8a6283447405</guid><pubDate>Sat, 03 Oct 2026 00:11:17 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1233,14 +1243,4 @@
 +![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=7U9op4JO)
  
  [Maroc – Les atouts du pilotage économique et de la stabilité dans un monde incertain](/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)
- &lt;/pre&gt;</description><guid isPermaLink="false">b302c0f79c36766c</guid><pubDate>Tue, 08 Sep 2026 23:52:37 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -133,7 +133,7 @@
- 
- Image principale
- 
--[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=Tkzsqcnc "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-la-croissance-en-reflux-dans-lattente-dun-rechauffement-de-la-demande)
-+[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/image_lire_aussi/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=MM4a_nvq "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-la-croissance-en-reflux-dans-lattente-dun-rechauffement-de-la-demande)
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">71a9f8635c407f83</guid><pubDate>Tue, 08 Sep 2026 18:23:40 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">b302c0f79c36766c</guid><pubDate>Tue, 08 Sep 2026 23:52:37 +0000</pubDate></item></channel></rss>
