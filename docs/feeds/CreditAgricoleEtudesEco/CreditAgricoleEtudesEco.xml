@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 04 Oct 2026 10:56:51 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 04 Oct 2026 15:42:50 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-502
++498
+ 
+ Publications ECO
+ 
+@@ -177,7 +177,7 @@
+ 
+ Image principale
+ 
+-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=PEvds3pw)](https://etudes-economiques.credit-agricole.com/fr/italie-la-sortie-de-la-procedure-pour-deficit-excessif-reportee-2027)
++![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=WJij8Xm4)
+ 
+ [Italie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A41)
+ 
+@@ -231,7 +231,7 @@
+ 
+ Image principale
+ 
+-[![États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-09/USA-mappemonde-GettyImages-1587086669-1920.png?itok=oYqU8nUy "États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?")](https://etudes-economiques.credit-agricole.com/fr/etats-unis-les-investisseurs-etrangers-se-detournent-ils-des-titres-americains)
++![États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-09/USA-mappemonde-GettyImages-1587086669-1920.png?itok=O8juYfS5 "États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?")
+ 
+ [Etats-Unis](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A48)
+ &lt;/pre&gt;</description><guid isPermaLink="false">753fa386b8669f64</guid><pubDate>Sun, 04 Oct 2026 15:42:48 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -133,7 +133,7 @@
  
@@ -1224,23 +1252,4 @@
 -24 Juillet 2026
  
   • 
- &lt;/pre&gt;</description><guid isPermaLink="false">ec56ce0dd35f562f</guid><pubDate>Wed, 09 Sep 2026 20:33:33 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -133,7 +133,7 @@
- 
- Image principale
- 
--[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/image_lire_aussi/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=MM4a_nvq "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-la-croissance-en-reflux-dans-lattente-dun-rechauffement-de-la-demande)
-+[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=Tkzsqcnc "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-la-croissance-en-reflux-dans-lattente-dun-rechauffement-de-la-demande)
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- 
-@@ -287,7 +287,7 @@
- 
- Image principale
- 
--![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=7U9op4JO)
-+[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-11/Maroc-GettyImages-1480958588-1920x1280.jpg?itok=fdbX_r4v)](https://etudes-economiques.credit-agricole.com/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)
- 
- [Maroc – Les atouts du pilotage économique et de la stabilité dans un monde incertain](/fr/maroc-les-atouts-du-pilotage-economique-et-de-la-stabilite-dans-un-monde-incertain)
- &lt;/pre&gt;</description><guid isPermaLink="false">c34aa96509d70251</guid><pubDate>Wed, 09 Sep 2026 08:43:17 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">ec56ce0dd35f562f</guid><pubDate>Wed, 09 Sep 2026 20:33:33 +0000</pubDate></item></channel></rss>
