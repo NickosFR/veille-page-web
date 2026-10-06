@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 05 Oct 2026 17:59:55 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 06 Oct 2026 06:07:55 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -73,7 +73,7 @@
+ 
+ Image principale
+ 
+-[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
++![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=-OTY6uuz "Webconférence - Monde – Scénario 2026-2027")
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+ 
+@@ -157,7 +157,7 @@
+ 
+ Image principale
+ 
+-[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
++![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=-OTY6uuz "Webconférence - Monde – Scénario 2026-2027")
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+ &lt;/pre&gt;</description><guid isPermaLink="false">b081727a14137eba</guid><pubDate>Tue, 06 Oct 2026 06:07:53 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -177,7 +177,7 @@
  
@@ -1212,14 +1231,4 @@
 +500
  
  Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">1a86df373feaf57a</guid><pubDate>Thu, 10 Sep 2026 14:53:12 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--503
-+502
- 
- Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">d1839ac7fb040f8d</guid><pubDate>Thu, 10 Sep 2026 10:47:20 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">1a86df373feaf57a</guid><pubDate>Thu, 10 Sep 2026 14:53:12 +0000</pubDate></item></channel></rss>
