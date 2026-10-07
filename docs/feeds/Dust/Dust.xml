@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 07 Oct 2026 11:34:01 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 07 Oct 2026 18:32:32 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
++++ 
+@@ -59,19 +59,25 @@
+ 
+ [All](/blog)[Events](/blog?tag=Events)[Joining Dust](/blog?tag=Joining%20Dust)[News](/blog?tag=News)[Product](/blog?tag=Product)[Customer Stories](/customers)
+ 
+-[![AI Partners ](https://images.ctfassets.net/751ge4ljeqso/6MAeud4GgRgasGSECRbP6W/b8340a268d2520b3d960b8413016c199/dust-x-aip-logo-2-black-1920x1080.png?w=3840&amp;fm=webp&amp;q=75)](/blog/dust-welcomes-ai-partners-as-an-official-partner)
++[![Dust x Index](https://images.ctfassets.net/751ge4ljeqso/2mREBaoBJCrepIVzSLEyHo/d67408423140c051f950718d4f664949/Dust_x_Index.png?w=3840&amp;fm=webp&amp;q=75)](/blog/dust-index-ai-strategy-beyond-models)
+ 
+-News
++October 7, 2026
++
++[## Your AI strategy should outlast your favorite model](/blog/dust-index-ai-strategy-beyond-models)
++
++Introducing the Dust Index: a study grounded in real-world business use of AI, examining model choice, shared playbooks, and what it means for a company to own...
++
++[Read full article](/blog/dust-index-ai-strategy-beyond-models)
++
++[![AI Partners ](https://images.ctfassets.net/751ge4ljeqso/6MAeud4GgRgasGSECRbP6W/b8340a268d2520b3d960b8413016c199/dust-x-aip-logo-2-black-1920x1080.png?w=3840&amp;fm=webp&amp;q=75)
+ 
+ September 23, 2026
+ 
+-[## Dust welcomes AI Partners as an official partner](/blog/dust-welcomes-ai-partners-as-an-official-partner)
++### Dust welcomes AI Partners as an official partner
+ 
+ We're excited to announce that AI Partners, a Paris-based AI transformation firm, is now an official Dust partner. AI Partners helps complex organizations...
+ 
+-[Read full article](/blog/dust-welcomes-ai-partners-as-an-official-partner)
+-
+-[![Your AI Deployment Won-t Pay Off](https://images.ctfassets.net/751ge4ljeqso/6RZeIXiio1IePoI8uAlqoS/9802b9993645b6f47a058f885c8b4fea/Your_AI_Deployment_Won-t_Pay_Off.png?w=3840&amp;fm=webp&amp;q=75)
++News](/blog/dust-welcomes-ai-partners-as-an-official-partner)[![Your AI Deployment Won-t Pay Off](https://images.ctfassets.net/751ge4ljeqso/6RZeIXiio1IePoI8uAlqoS/9802b9993645b6f47a058f885c8b4fea/Your_AI_Deploy&lt;/pre&gt;</description><guid isPermaLink="false">3c6e757d790acfe3</guid><pubDate>Wed, 07 Oct 2026 18:32:30 +0000</pubDate></item><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -163,6 +163,7 @@
  

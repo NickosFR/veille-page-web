@@ -537,5 +537,12 @@
     "detected_at": "2026-10-07T11:34:01.524242+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-498\n+497\n \n Publications ECO\n \n@@ -177,7 +177,7 @@\n \n Image principale\n \n-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=PEvds3pw)](https://etudes-economiques.credit-agricole.com/fr/italie-la-sortie-de-la-procedure-pour-deficit-excessif-reportee-2027)\n+![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=WJij8Xm4)\n \n [Italie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A41)\n "
+  },
+  {
+    "guid": "4bd597cc50f4fff3",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-10-07T18:32:32.540894+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -231,7 +231,7 @@\n \n Image principale\n \n-[![États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-09/USA-mappemonde-GettyImages-1587086669-1920.png?itok=oYqU8nUy \"États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?\")](https://etudes-economiques.credit-agricole.com/fr/etats-unis-les-investisseurs-etrangers-se-detournent-ils-des-titres-americains)\n+![États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-09/USA-mappemonde-GettyImages-1587086669-1920.png?itok=O8juYfS5 \"États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?\")\n \n [Etats-Unis](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A48)\n "
   }
 ]
