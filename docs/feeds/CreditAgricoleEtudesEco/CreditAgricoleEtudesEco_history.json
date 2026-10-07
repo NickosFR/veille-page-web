@@ -530,5 +530,12 @@
     "detected_at": "2026-10-06T13:58:22.967326+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -73,7 +73,7 @@\n \n Image principale\n \n-![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=-OTY6uuz \"Webconférence - Monde – Scénario 2026-2027\")\n+[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A \"Webconférence - Monde – Scénario 2026-2027\")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n \n@@ -157,7 +157,7 @@\n \n Image principale\n \n-![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=-OTY6uuz \"Webconférence - Monde – Scénario 2026-2027\")\n+[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A \"Webconférence - Monde – Scénario 2026-2027\")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n "
+  },
+  {
+    "guid": "d2a4f5963b6218a6",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-10-07T11:34:01.524242+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-498\n+497\n \n Publications ECO\n \n@@ -177,7 +177,7 @@\n \n Image principale\n \n-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=PEvds3pw)](https://etudes-economiques.credit-agricole.com/fr/italie-la-sortie-de-la-procedure-pour-deficit-excessif-reportee-2027)\n+![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=WJij8Xm4)\n \n [Italie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A41)\n "
   }
 ]
