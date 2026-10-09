@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 09 Oct 2026 18:03:06 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 09 Oct 2026 23:03:40 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -195,7 +195,7 @@
+ 
+ Image principale
+ 
+-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Geopolitique_shutterstock_2741832327_1920px.jpg?itok=HlBM5sM3)](https://etudes-economiques.credit-agricole.com/fr/allemagne-changement-de-strategie-pour-une-nouvelle-puissance-geopolitique)
++![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Allemagne_Geopolitique_shutterstock_2741832327_1920px.jpg?itok=7lDSITVe)
+ 
+ [Focus Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A284)
+ &lt;/pre&gt;</description><guid isPermaLink="false">0c37857bb892c5d7</guid><pubDate>Fri, 09 Oct 2026 23:03:39 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1236,23 +1246,4 @@
 +[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=PvOcLk31 "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-119)
  
  [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
- &lt;/pre&gt;</description><guid isPermaLink="false">c2517515cba5151e</guid><pubDate>Sun, 13 Sep 2026 03:35:08 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -175,7 +175,7 @@
- 
- Image principale
- 
--[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-06/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=WzilIPfZ "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-42)
-+![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-06/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=Tzi3VFGw "Monde – L'actualité de la semaine")
- 
- [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
- 
-@@ -211,7 +211,7 @@
- 
- Image principale
- 
--[![Zone euro – Forte révision à la hausse de la croissance au T2](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-09/zone-euro-graphique-shutterstock_2087119141.png?itok=vhm9xqlM "Zone euro – Forte révision à la hausse de la croissance au T2")](https://etudes-economiques.credit-agricole.com/fr/zone-euro-forte-revision-la-hausse-de-la-croissance-au-t2)
-+![Zone euro – Forte révision à la hausse de la croissance au T2](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-09/zone-euro-graphique-shutterstock_2087119141.png?itok=eRm1wY5h "Zone euro – Forte révision à la hausse de la croissance au T2")
- 
- [Zone euro](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A43)
- &lt;/pre&gt;</description><guid isPermaLink="false">93f94b14568c5a8c</guid><pubDate>Sat, 12 Sep 2026 23:48:05 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">c2517515cba5151e</guid><pubDate>Sun, 13 Sep 2026 03:35:08 +0000</pubDate></item></channel></rss>
