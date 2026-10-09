@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 09 Oct 2026 11:43:11 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 09 Oct 2026 18:03:04 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
++++ 
+@@ -161,6 +161,7 @@
+ 
+ ## Further reading
+ 
++* [Grok vs Gemini: which AI is suitable for you?October 9, 2026](/blog/grok-vs-gemini)
+ * [What is AI observability and how to get started?October 8, 2026](/blog/ai-observability)
+ * [Compounding AI: How systems and feedback build lasting valueOctober 2, 2026](/blog/compounding-ai)
+ * [What is collaborative AI and how does it work?October 1, 2026](/blog/collaborative-ai)
+@@ -170,7 +171,6 @@
+ * [LLM observability: What to capture, what to trust, and how to act on itSeptember 15, 2026](/blog/llm-observability)
+ * [What is AI agent memory and how it worksSeptember 11, 2026](/blog/ai-agent-memory)
+ * [Human-AI collaboration: What it means and how teams make it workSeptember 10, 2026](/blog/human-ai-collaboration)
+-* [What is AI orchestration? When you need it and how it worksAugust 17, 2026](/blog/what-is-ai-orchestration)
+ 
+ Product
+ &lt;/pre&gt;</description><guid isPermaLink="false">c9c29a4689a3ea51</guid><pubDate>Fri, 09 Oct 2026 18:03:02 +0000</pubDate></item><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -161,6 +161,7 @@
  

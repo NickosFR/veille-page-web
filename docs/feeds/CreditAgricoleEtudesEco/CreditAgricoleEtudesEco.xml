@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 09 Oct 2026 11:43:13 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 09 Oct 2026 18:03:06 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-505
++508
+ 
+ Publications ECO
+ 
+@@ -73,6 +73,26 @@
+ 
+ Image principale
+ 
++[![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX "Royaume-Uni  - Scénario")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)
++
++[Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
++
++[Royaume-Uni](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A59)
++
++[Royaume-Uni – Scénario 2026-2027 : l'économie résiste mais l’étau se resserre](/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)
++
++Date de publication
++
++09 Octobre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
+ [![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+@@ -131,32 +151,50 @@
+ 
+ Publication ECO
+ 
+-Image principale
+-
+-[![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=3BHo-hk5 "ESPAGNE")](https://etudes-economiques.credit-agricole.com/fr/espagne-scenario-2026-2027-une-demande-interne-solide-dans-un-environnement-mondial-degrade)
+-
+-[Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+-
+-[Espagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A56)
+-
+-[Espagne – Scénario 2026-2027 : une demande interne solide dans un environnement m&lt;/pre&gt;</description><guid isPermaLink="false">b2ed8ae6e97e672d</guid><pubDate>Fri, 09 Oct 2026 18:03:04 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -73,7 +73,7 @@
  
@@ -1205,23 +1255,4 @@
 +![Zone euro – Forte révision à la hausse de la croissance au T2](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-09/zone-euro-graphique-shutterstock_2087119141.png?itok=eRm1wY5h "Zone euro – Forte révision à la hausse de la croissance au T2")
  
  [Zone euro](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A43)
- &lt;/pre&gt;</description><guid isPermaLink="false">93f94b14568c5a8c</guid><pubDate>Sat, 12 Sep 2026 23:48:05 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--501
-+500
- 
- Publications ECO
- 
-@@ -229,7 +229,7 @@
- 
- Image principale
- 
--[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=PvOcLk31 "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-119)
-+![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-05/Monde_GettyImages-1283785526_1920px.jpg?itok=lOHqSDHc "Monde – L'actualité de la semaine")
- 
- [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
- &lt;/pre&gt;</description><guid isPermaLink="false">643a241908a25f98</guid><pubDate>Sat, 12 Sep 2026 16:02:13 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">93f94b14568c5a8c</guid><pubDate>Sat, 12 Sep 2026 23:48:05 +0000</pubDate></item></channel></rss>
