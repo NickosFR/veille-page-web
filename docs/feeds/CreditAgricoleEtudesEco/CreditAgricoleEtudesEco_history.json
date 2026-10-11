@@ -600,5 +600,12 @@
     "detected_at": "2026-10-10T20:29:18.731351+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -113,7 +113,7 @@\n \n Image principale\n \n-![Scénario zone euro](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Europe-scenario-carte-GettyImages-2162898337-1920px.jpg?itok=lRBtFLl0 \"Scénario zone euro\")\n+[![Scénario zone euro](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Europe-scenario-carte-GettyImages-2162898337-1920px.jpg?itok=UkZYDmYt \"Scénario zone euro\")](https://etudes-economiques.credit-agricole.com/fr/zone-euro-scenario-2026-2027-normalisation-plutot-que-rebond)\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n \n@@ -195,7 +195,7 @@\n \n Image principale\n \n-![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-12/Monde-graphiques-GettyImages-1207186327-1920px.jpg?itok=AXv9150f \"Monde – L'actualité de la semaine\")\n+[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-12/Monde-graphiques-GettyImages-1207186327-1920px.jpg?itok=bOGbW_Q3 \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-9-octobre-2026)\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
+  },
+  {
+    "guid": "61ba46ffe78e7ca0",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-10-11T00:07:10.680133+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -195,7 +195,7 @@\n \n Image principale\n \n-[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-12/Monde-graphiques-GettyImages-1207186327-1920px.jpg?itok=bOGbW_Q3 \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-9-octobre-2026)\n+![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-12/Monde-graphiques-GettyImages-1207186327-1920px.jpg?itok=AXv9150f \"Monde – L'actualité de la semaine\")\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
   }
 ]
