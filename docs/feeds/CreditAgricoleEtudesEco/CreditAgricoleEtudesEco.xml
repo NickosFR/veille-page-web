@@ -1,5 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 11 Oct 2026 13:48:33 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 11 Oct 2026 18:38:54 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-505
++504
+ 
+ Publications ECO
+ 
+@@ -73,7 +73,7 @@
+ 
+ Image principale
+ 
+-[![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX "Royaume-Uni  - Scénario")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)
++![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=EXROkFVS "Royaume-Uni  - Scénario")
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+ 
+@@ -157,7 +157,7 @@
+ 
+ Image principale
+ 
+-[![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX "Royaume-Uni  - Scénario")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)
++![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=EXROkFVS "Royaume-Uni  - Scénario")
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+ 
+@@ -231,29 +231,29 @@
+ 
+ Image principale
+ 
++[![Immobilier résidentiel – Le vieillissement démographique](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Immobilier_shutterstock_2482312799-1920px_0.jpg?itok=KGACP0NS "Immobilier résidentiel – Le vieillissement démographique")](https://etudes-economiques.credit-agricole.com/fr/immobilier-residentiel-le-vieillissement-demographique-attenuera-t-il-la-penurie-de-logements-en)
++
++[Focus Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A284)
++
++[Immobilier résidentiel – Le vieillissement d&lt;/pre&gt;</description><guid isPermaLink="false">21a48e9627f1b7dd</guid><pubDate>Sun, 11 Oct 2026 18:38:53 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1294,14 +1331,4 @@
 +499
  
  Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">64b08aa5326a25d9</guid><pubDate>Wed, 16 Sep 2026 14:39:47 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -175,7 +175,7 @@
- 
- Image principale
- 
--![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-06/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=Tzi3VFGw "Monde – L'actualité de la semaine")
-+[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-06/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=WzilIPfZ "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-42)
- 
- [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
- &lt;/pre&gt;</description><guid isPermaLink="false">b4789523696e6140</guid><pubDate>Wed, 16 Sep 2026 04:39:27 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">64b08aa5326a25d9</guid><pubDate>Wed, 16 Sep 2026 14:39:47 +0000</pubDate></item></channel></rss>
