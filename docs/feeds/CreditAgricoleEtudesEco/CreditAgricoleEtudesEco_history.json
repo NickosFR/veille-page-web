@@ -670,5 +670,12 @@
     "detected_at": "2026-10-14T07:11:10.324925+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -93,7 +93,7 @@\n \n Image principale\n \n-[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/image_lire_aussi/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=kOkqHjSW \"Webconférence - Monde – Scénario 2026-2027\")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)\n+[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A \"Webconférence - Monde – Scénario 2026-2027\")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n \n@@ -285,7 +285,7 @@\n \n Image principale\n \n-[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/image_lire_aussi/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=kOkqHjSW \"Webconférence - Monde – Scénario 2026-2027\")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)\n+[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A \"Webconférence - Monde – Scénario 2026-2027\")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n "
+  },
+  {
+    "guid": "db8f5a2a6b6fc4b8",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-10-14T13:22:01.054905+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-504\n+503\n \n Publications ECO\n "
   }
 ]
