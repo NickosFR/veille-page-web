@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 15 Oct 2026 13:07:42 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 15 Oct 2026 18:02:52 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-502
++503
+ 
+ Publications ECO
+ 
+@@ -157,6 +157,42 @@
+ 
+ Image principale
+ 
++[![France – La construction de logements neufs est-elle à la hauteur des besoins d’ici 2040 ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-immobilier-GettyImages-1301432798-1920x1280.jpg?itok=GTnoeS9l "France – La construction de logements neufs est-elle à la hauteur des besoins d’ici 2040 ?")](https://etudes-economiques.credit-agricole.com/fr/france-le-taux-deffort-logement-en-baisse-depuis-2014-en-hausse-plus-long-terme)
++
++[France](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A18)
++
++[France – Le taux d’effort logement : en baisse depuis 2014, en hausse à plus long terme](/fr/france-le-taux-deffort-logement-en-baisse-depuis-2014-en-hausse-plus-long-terme)
++
++Date de publication
++
++15 Octobre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
++[![Cuivre](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/cuivre-shutterstock_2301925645-1920px.png?itok=jpJVQfFQ "Mines &amp;amp; Métaux – Le cuivre ou la valse des paradoxes")](https://etudes-economiques.credit-agricole.com/fr/mines-metaux-le-cuivre-ou-la-valse-des-paradoxes)
++
++[Industrie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A25)
++
++[Mines &amp; Métaux – Le cuivre ou la valse des paradoxes](/fr/mines-metaux-le-cuivre-ou-la-valse-des-paradoxes)
++
++Date de publication
++
++15 Octobre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
+ [![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX "Royaume-Uni  - Scénario")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+&lt;/pre&gt;</description><guid isPermaLink="false">fc1b5d5e762483d0</guid><pubDate>Thu, 15 Oct 2026 18:02:50 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1281,23 +1335,4 @@
 +497
  
  Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">5487c5230244f301</guid><pubDate>Sun, 20 Sep 2026 18:01:23 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--499
-+498
- 
- Publications ECO
- 
-@@ -113,7 +113,7 @@
- 
- Image principale
- 
--[![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=3BHo-hk5 "ESPAGNE")](https://etudes-economiques.credit-agricole.com/fr/espagne-scenario-2026-2027-une-demande-interne-solide-dans-un-environnement-mondial-degrade)
-+![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=WO36CRVF "ESPAGNE")
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">5d2c7defa54ff03a</guid><pubDate>Sun, 20 Sep 2026 14:32:59 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">5487c5230244f301</guid><pubDate>Sun, 20 Sep 2026 18:01:23 +0000</pubDate></item></channel></rss>
