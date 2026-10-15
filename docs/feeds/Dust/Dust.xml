@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 15 Oct 2026 01:15:02 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 15 Oct 2026 07:02:57 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
++++ 
+@@ -59,17 +59,25 @@
+ 
+ [All](/blog)[Events](/blog?tag=Events)[Joining Dust](/blog?tag=Joining%20Dust)[News](/blog?tag=News)[Product](/blog?tag=Product)[Customer Stories](/customers)
+ 
+-[![Dust x Index](https://images.ctfassets.net/751ge4ljeqso/2mREBaoBJCrepIVzSLEyHo/d67408423140c051f950718d4f664949/Dust_x_Index.png?w=3840&amp;fm=webp&amp;q=75)](/blog/dust-index-ai-strategy-beyond-models)
++[![Mantu Dust](https://images.ctfassets.net/751ge4ljeqso/2ZCOa30dzd2W9uuG573B2z/9a27671103bd7521392b83942675716c/dust-x-mantu-logo-rgb-tagline-color-1-1920x1080__1_.png?w=3840&amp;fm=webp&amp;q=75)](/blog/dust-and-mantu-partner-to-bring-agentic-ai-into-everyday-operations)
++
++News
++
++October 15, 2026
++
++[## Dust and Mantu partner to bring agentic AI into everyday operations](/blog/dust-and-mantu-partner-to-bring-agentic-ai-into-everyday-operations)
++
++We’re proud to announce our partnership with Mantu, a global consulting and services group. Together, we’ll help organizations move from AI ambition to...
++
++[Read full article](/blog/dust-and-mantu-partner-to-bring-agentic-ai-into-everyday-operations)
++
++[![Dust x Index](https://images.ctfassets.net/751ge4ljeqso/2mREBaoBJCrepIVzSLEyHo/d67408423140c051f950718d4f664949/Dust_x_Index.png?w=3840&amp;fm=webp&amp;q=75)
+ 
+ October 7, 2026
+ 
+-[## Your AI strategy should outlast your favorite model](/blog/dust-index-ai-strategy-beyond-models)
++### Your AI strategy should outlast your favorite model
+ 
+-Introducing the Dust Index: a study grounded in real-world business use of AI, examining model choice, shared playbooks, and what it means for a company to own...
+-
+-[Read full article](/blog/dust-index-ai-strategy-beyond-models)
+-
+-[![AI Partners ](https://images.ctfassets.net/751ge4ljeqso/6MAeud4GgRgasGSECRbP6W/b8340a268d2520b3d960b8413016c199/dust-x-aip-logo-2-black-1920x1080.png?w=3840&amp;fm=webp&amp;q=75)
++Introducing the Dust Index: a study grounded in real-world business use of AI, examining model choice, shared playbooks, and what it means for a company to ow&lt;/pre&gt;</description><guid isPermaLink="false">bcac1332586d1552</guid><pubDate>Thu, 15 Oct 2026 07:02:56 +0000</pubDate></item><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -161,6 +161,7 @@
  
