@@ -712,5 +712,12 @@
     "detected_at": "2026-10-17T01:07:13.814975+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -157,7 +157,7 @@\n \n Image principale\n \n-[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=Um3Ecs51 \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-16-octobre-2026)\n+![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=OvlFn21d \"Monde – L'actualité de la semaine\")\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
+  },
+  {
+    "guid": "5588f27fd4b87fac",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-10-18T13:01:02.042333+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -157,7 +157,7 @@\n \n Image principale\n \n-![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=OvlFn21d \"Monde – L'actualité de la semaine\")\n+[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=Um3Ecs51 \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-16-octobre-2026)\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
   }
 ]
