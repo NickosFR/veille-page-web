@@ -1,5 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 22 Oct 2026 07:12:07 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 22 Oct 2026 13:31:56 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-502
++504
+ 
+ Publications ECO
+ 
+@@ -93,7 +93,7 @@
+ 
+ Image principale
+ 
+-![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=-OTY6uuz "Webconférence - Monde – Scénario 2026-2027")
++[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+ 
+@@ -157,6 +157,24 @@
+ 
+ Image principale
+ 
++[![États-Unis – Élections de mi-mandat et implications possibles](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/USA-elections-shutterstock_2698667759-1920px.jpg?itok=nMecZRdh "États-Unis – Élections de mi-mandat et implications possibles")](https://etudes-economiques.credit-agricole.com/fr/etats-unis-elections-de-mi-mandat-et-implications-possibles)
++
++[Etats-Unis](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A48)
++
++[États-Unis – Élections de mi-mandat et implications possibles](/fr/etats-unis-elections-de-mi-mandat-et-implications-possibles)
++
++Date de publication
++
++21 Octobre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
+ [![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/shutterstock_1999698971.jpg?itok=dimykbce)](https://etudes-economiques.credit-agricole.com/fr/la-tokenisation-du-monde-est-en-marche)
+ 
+ [Tech-Media-Télécom](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A4)
+@@ -276,24 +294,6 @@
+ [Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A57)
+ 
+ [Allemagne – La reprise à&lt;/pre&gt;</description><guid isPermaLink="false">0fea0c77ecda1ed1</guid><pubDate>Thu, 22 Oct 2026 13:31:54 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -93,7 +93,7 @@
  
@@ -1232,14 +1280,4 @@
 -17 Septembre 2026
  
   • 
- &lt;/pre&gt;</description><guid isPermaLink="false">99e986d565069aef</guid><pubDate>Mon, 28 Sep 2026 11:29:10 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--499
-+498
- 
- Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">e7ea7cf1dcfa0628</guid><pubDate>Sun, 27 Sep 2026 17:33:33 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">99e986d565069aef</guid><pubDate>Mon, 28 Sep 2026 11:29:10 +0000</pubDate></item></channel></rss>
