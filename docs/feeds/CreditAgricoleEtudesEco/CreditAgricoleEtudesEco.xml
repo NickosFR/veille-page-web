@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 23 Oct 2026 07:03:49 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 23 Oct 2026 13:08:10 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-504
++502
+ 
+ Publications ECO
+ 
+@@ -255,7 +255,7 @@
+ 
+ Image principale
+ 
+-[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=Um3Ecs51 "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-16-octobre-2026)
++![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=OvlFn21d "Monde – L'actualité de la semaine")
+ 
+ [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
+ 
+@@ -329,7 +329,7 @@
+ 
+ [Image
+ 
+-![enjeux géopolitiques](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/rectangle_375x230/public/2025-07/vignette_geopolitique-425px-948628244.png?itok=cPsTQY6- "enjeux géopolitiques")](https://etudes-economiques.credit-agricole.com/fr/taxonomy/term/155)
++![enjeux géopolitiques](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large_square/public/2025-07/vignette_geopolitique-425px-948628244.png?itok=w7N-KRFq "enjeux géopolitiques")](https://etudes-economiques.credit-agricole.com/fr/taxonomy/term/155)
+ 
+ ### Nom [Transition énergétique](/fr/taxonomy/term/92)
+ &lt;/pre&gt;</description><guid isPermaLink="false">591486cab99b8ace</guid><pubDate>Fri, 23 Oct 2026 13:08:08 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1211,64 +1239,4 @@
 -22 Septembre 2026
  
   • 
- &lt;/pre&gt;</description><guid isPermaLink="false">f6e42e50514f7f9c</guid><pubDate>Tue, 29 Sep 2026 19:08:43 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--500
-+501
- 
- Publications ECO
- 
-@@ -157,6 +157,24 @@
- 
- Image principale
- 
-+[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=PEvds3pw)](https://etudes-economiques.credit-agricole.com/fr/italie-la-sortie-de-la-procedure-pour-deficit-excessif-reportee-2027)
-+
-+[Italie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A41)
-+
-+[Italie – La sortie de la procédure pour déficit excessif reportée à 2027](/fr/italie-la-sortie-de-la-procedure-pour-deficit-excessif-reportee-2027)
-+
-+Date de publication
-+
-+29 Septembre 2026
-+
-+ • 
-+
-+Type de contenu
-+
-+Publication ECO
-+
-+Image principale
-+
- [![FRANCE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-04/France-conjoncture-GettyImages-2187429776-1920px.jpg?itok=IlUU0lxs "FRANCE")](https://etudes-economiques.credit-agricole.com/fr/france-enquetes-de-conjoncture-des-resultats-mitiges-en-septembre)
- 
- [France](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A18)
-@@ -276,24 +294,6 @@
- Date de publication
- 
- 22 Septembre 2026
--
-- • 
--
--Type de contenu
--
--Publication ECO
--
--Image principale
--
--[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-GettyImages-1320085874-1920px.jpg?itok=GC_b8fuC "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-18-septembre-2026)
--
--[Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
--
--[Monde – L'actualité de la semaine – 18 septembre 2026](/fr/monde-lactualite-de-la-semaine-18-septembre-2026)
--
--Date de publication
--
--18 Septembre 2026
- 
-  • 
- &lt;/pre&gt;</description><guid isPermaLink="false">8900290211046e2a</guid><pubDate>Tue, 29 Sep 2026 13:47:54 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">f6e42e50514f7f9c</guid><pubDate>Tue, 29 Sep 2026 19:08:43 +0000</pubDate></item></channel></rss>
