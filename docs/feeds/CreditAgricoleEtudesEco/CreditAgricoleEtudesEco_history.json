@@ -838,5 +838,12 @@
     "detected_at": "2026-10-25T05:45:48.685407+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -233,7 +233,7 @@\n \n Image principale\n \n-![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/shutterstock_1999698971.jpg?itok=HSk5IuXj)\n+[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/shutterstock_1999698971.jpg?itok=dimykbce)](https://etudes-economiques.credit-agricole.com/fr/la-tokenisation-du-monde-est-en-marche)\n \n [Tech-Media-Télécom](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A4)\n "
+  },
+  {
+    "guid": "74aebaa03b85c3b7",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-10-25T10:53:00.456387+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-502\n+501\n \n Publications ECO\n "
   }
 ]
