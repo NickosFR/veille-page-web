@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sat, 24 Oct 2026 22:56:34 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 25 Oct 2026 00:54:46 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -233,7 +233,7 @@
+ 
+ Image principale
+ 
+-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/shutterstock_1999698971.jpg?itok=dimykbce)](https://etudes-economiques.credit-agricole.com/fr/la-tokenisation-du-monde-est-en-marche)
++![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/shutterstock_1999698971.jpg?itok=HSk5IuXj)
+ 
+ [Tech-Media-Télécom](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A4)
+ &lt;/pre&gt;</description><guid isPermaLink="false">305bb7cdf2661724</guid><pubDate>Sun, 25 Oct 2026 00:54:45 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -329,7 +329,7 @@
  
@@ -1212,14 +1222,4 @@
 +
 +Image principale
 +
-+[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/&lt;/pre&gt;</description><guid isPermaLink="false">92fa86158587564b</guid><pubDate>Fri, 02 Oct 2026 15:26:11 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -157,7 +157,7 @@
- 
- Image principale
- 
--![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=WJij8Xm4)
-+[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=PEvds3pw)](https://etudes-economiques.credit-agricole.com/fr/italie-la-sortie-de-la-procedure-pour-deficit-excessif-reportee-2027)
- 
- [Italie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A41)
- &lt;/pre&gt;</description><guid isPermaLink="false">cd4ad129537dea25</guid><pubDate>Fri, 02 Oct 2026 08:00:30 +0000</pubDate></item></channel></rss>
++[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/&lt;/pre&gt;</description><guid isPermaLink="false">92fa86158587564b</guid><pubDate>Fri, 02 Oct 2026 15:26:11 +0000</pubDate></item></channel></rss>
