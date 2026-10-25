@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 25 Oct 2026 14:51:41 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 25 Oct 2026 18:11:52 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-501
++500
+ 
+ Publications ECO
+ &lt;/pre&gt;</description><guid isPermaLink="false">b83d1f3f44d158f2</guid><pubDate>Sun, 25 Oct 2026 18:11:51 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1169,14 +1179,4 @@
 +![États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-09/USA-mappemonde-GettyImages-1587086669-1920.png?itok=O8juYfS5 "États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?")
  
  [Etats-Unis](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A48)
- &lt;/pre&gt;</description><guid isPermaLink="false">753fa386b8669f64</guid><pubDate>Sun, 04 Oct 2026 15:42:48 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -133,7 +133,7 @@
- 
- Image principale
- 
--![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=WO36CRVF "ESPAGNE")
-+[![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=3BHo-hk5 "ESPAGNE")](https://etudes-economiques.credit-agricole.com/fr/espagne-scenario-2026-2027-une-demande-interne-solide-dans-un-environnement-mondial-degrade)
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">c199ba9eb6d8a7dd</guid><pubDate>Sat, 03 Oct 2026 12:17:07 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">753fa386b8669f64</guid><pubDate>Sun, 04 Oct 2026 15:42:48 +0000</pubDate></item></channel></rss>
