@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 27 Oct 2026 14:03:11 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 27 Oct 2026 19:51:56 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-500
++501
+ 
+ Publications ECO
+ &lt;/pre&gt;</description><guid isPermaLink="false">f522d6329738426f</guid><pubDate>Tue, 27 Oct 2026 19:51:55 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -329,7 +329,7 @@
  
@@ -1133,23 +1143,4 @@
 +![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=WJij8Xm4)
  
  [Italie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A41)
- &lt;/pre&gt;</description><guid isPermaLink="false">d2a4f5963b6218a6</guid><pubDate>Wed, 07 Oct 2026 11:34:01 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -73,7 +73,7 @@
- 
- Image principale
- 
--![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=-OTY6uuz "Webconférence - Monde – Scénario 2026-2027")
-+[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- 
-@@ -157,7 +157,7 @@
- 
- Image principale
- 
--![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=-OTY6uuz "Webconférence - Monde – Scénario 2026-2027")
-+[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">f621a76a19646945</guid><pubDate>Tue, 06 Oct 2026 13:58:22 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">d2a4f5963b6218a6</guid><pubDate>Wed, 07 Oct 2026 11:34:01 +0000</pubDate></item></channel></rss>
