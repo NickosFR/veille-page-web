@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 29 Oct 2026 09:28:52 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 29 Oct 2026 16:39:46 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -295,7 +295,7 @@
+ 
+ Image principale
+ 
+-[![Allemagne - Immobilier résidentiel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Immobilier-1920px-20261020-1137.jpg?itok=69GQSB2t "Allemagne - Immobilier résidentiel")](https://etudes-economiques.credit-agricole.com/fr/immobilier-residentiel-le-vieillissement-demographique-attenuera-t-il-la-penurie-de-logements-en-0)
++![Allemagne - Immobilier résidentiel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Allemagne_Immobilier-1920px-20261020-1137.jpg?itok=4wN6TOSd "Allemagne - Immobilier résidentiel")
+ 
+ [Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A57)
+ &lt;/pre&gt;</description><guid isPermaLink="false">923dd0ddacf5eb6e</guid><pubDate>Thu, 29 Oct 2026 16:39:45 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -73,13 +73,13 @@
  
@@ -1178,23 +1188,4 @@
 +
 +Image principale
 +
-+[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Chine_Allemagne_shutterstock_2420505941-1920px.png?itok=ZTws4Vfc)](https:&lt;/pre&gt;</description><guid isPermaLink="false">bd658fc0028fa0e1</guid><pubDate>Thu, 08 Oct 2026 18:31:49 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -177,7 +177,7 @@
- 
- Image principale
- 
--![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=WJij8Xm4)
-+[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/publication_type_avatars/Avatar-perspectives_italie-1920px.png?itok=PEvds3pw)](https://etudes-economiques.credit-agricole.com/fr/italie-la-sortie-de-la-procedure-pour-deficit-excessif-reportee-2027)
- 
- [Italie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A41)
- 
-@@ -231,7 +231,7 @@
- 
- Image principale
- 
--![États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-09/USA-mappemonde-GettyImages-1587086669-1920.png?itok=O8juYfS5 "États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?")
-+[![États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-09/USA-mappemonde-GettyImages-1587086669-1920.png?itok=oYqU8nUy "États-Unis – Les investisseurs étrangers se détournent-ils des titres américains ?")](https://etudes-economiques.credit-agricole.com/fr/etats-unis-les-investisseurs-etrangers-se-detournent-ils-des-titres-americains)
- 
- [Etats-Unis](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A48)
- &lt;/pre&gt;</description><guid isPermaLink="false">ef61756714a4ccc1</guid><pubDate>Wed, 07 Oct 2026 23:28:14 +0000</pubDate></item></channel></rss>
++[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Chine_Allemagne_shutterstock_2420505941-1920px.png?itok=ZTws4Vfc)](https:&lt;/pre&gt;</description><guid isPermaLink="false">bd658fc0028fa0e1</guid><pubDate>Thu, 08 Oct 2026 18:31:49 +0000</pubDate></item></channel></rss>
