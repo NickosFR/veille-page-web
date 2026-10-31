@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sat, 31 Oct 2026 00:28:14 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sat, 31 Oct 2026 06:41:51 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -93,7 +93,7 @@
+ 
+ Image principale
+ 
+-[![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX "Royaume-Uni  - Scénario")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)
++![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=EXROkFVS "Royaume-Uni  - Scénario")
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+ &lt;/pre&gt;</description><guid isPermaLink="false">25e246a4811c439c</guid><pubDate>Sat, 31 Oct 2026 06:41:50 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1150,14 +1160,4 @@
  Image principale
  
 -[![Immobilier résidentiel – Le vieillissement démographique](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Immobilier_shutterstock_2482312799-1920px_0.jpg?itok=KGACP0NS "Immobilier résidentiel – Le vieillissement démographique")](https://etudes-economiques.credit-agricole.com/fr/immobilier-residentiel-le-vieillissement-demographique-attenuera-t-il-la-penurie-de-logements-en)
-+![Immobilier &lt;/pre&gt;</description><guid isPermaLink="false">d0d437f0a59007b9</guid><pubDate>Sat, 10 Oct 2026 10:58:35 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -195,7 +195,7 @@
- 
- Image principale
- 
--[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Geopolitique_shutterstock_2741832327_1920px.jpg?itok=HlBM5sM3)](https://etudes-economiques.credit-agricole.com/fr/allemagne-changement-de-strategie-pour-une-nouvelle-puissance-geopolitique)
-+![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Allemagne_Geopolitique_shutterstock_2741832327_1920px.jpg?itok=7lDSITVe)
- 
- [Focus Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A284)
- &lt;/pre&gt;</description><guid isPermaLink="false">0c37857bb892c5d7</guid><pubDate>Fri, 09 Oct 2026 23:03:39 +0000</pubDate></item></channel></rss>
++![Immobilier &lt;/pre&gt;</description><guid isPermaLink="false">d0d437f0a59007b9</guid><pubDate>Sat, 10 Oct 2026 10:58:35 +0000</pubDate></item></channel></rss>
