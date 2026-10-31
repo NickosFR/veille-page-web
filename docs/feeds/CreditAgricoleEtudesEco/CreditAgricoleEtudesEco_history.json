@@ -929,5 +929,12 @@
     "detected_at": "2026-10-31T06:41:50.378898+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -93,7 +93,7 @@\n \n Image principale\n \n-[![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX \"Royaume-Uni  - Scénario\")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)\n+![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=EXROkFVS \"Royaume-Uni  - Scénario\")\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n "
+  },
+  {
+    "guid": "0cfd5eaa70eeb360",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-10-31T13:22:37.009500+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -113,7 +113,7 @@\n \n Image principale\n \n-[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A \"Webconférence - Monde – Scénario 2026-2027\")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)\n+![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=-OTY6uuz \"Webconférence - Monde – Scénario 2026-2027\")\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n "
   }
 ]
