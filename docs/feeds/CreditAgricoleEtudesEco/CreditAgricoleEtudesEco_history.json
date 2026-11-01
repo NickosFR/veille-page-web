@@ -950,5 +950,12 @@
     "detected_at": "2026-10-31T22:15:06.782531+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -93,7 +93,7 @@\n \n Image principale\n \n-![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=EXROkFVS \"Royaume-Uni  - Scénario\")\n+[![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX \"Royaume-Uni  - Scénario\")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)\n \n [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)\n "
+  },
+  {
+    "guid": "f59f4ad6af39251f",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-11-01T20:16:23.266375+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -175,7 +175,7 @@\n \n Image principale\n \n-[![La minute pédago – La France décroche-t-elle ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/France-economie-shutterstock_2677916793-1920px.jpg?itok=pvG5CFDi \"La minute pédago – La France décroche-t-elle ?\")](https://etudes-economiques.credit-agricole.com/fr/france-conjoncture-flash-pib-lactivite-decoit-de-nouveau-au-troisieme-trimestre-01-apres-00)\n+![La minute pédago – La France décroche-t-elle ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-05/France-economie-shutterstock_2677916793-1920px.jpg?itok=6IzWxpnm \"La minute pédago – La France décroche-t-elle ?\")\n \n [France](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A18)\n "
   }
 ]
