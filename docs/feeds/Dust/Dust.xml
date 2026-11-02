@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 02 Nov 2026 07:20:24 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 02 Nov 2026 17:53:54 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
++++ 
+@@ -59,19 +59,25 @@
+ 
+ [All](/blog)[Events](/blog?tag=Events)[Joining Dust](/blog?tag=Joining%20Dust)[News](/blog?tag=News)[Product](/blog?tag=Product)[Customer Stories](/customers)
+ 
+-[![Mantu Dust](https://images.ctfassets.net/751ge4ljeqso/2ZCOa30dzd2W9uuG573B2z/9a27671103bd7521392b83942675716c/dust-x-mantu-logo-rgb-tagline-color-1-1920x1080__1_.png?w=3840&amp;fm=webp&amp;q=75)](/blog/dust-and-mantu-partner-to-bring-agentic-ai-into-everyday-operations)
++[![What does multiplayer AI actually unlock for my business?](https://images.ctfassets.net/751ge4ljeqso/7e6T3CPJ2QnpJnypIu91eU/446d9d21f0a013d5448e2dd33950c18e/What_does_multiplayer_AI_actually_unlock_for_my_business?w=3840&amp;fm=webp&amp;q=75)](/blog/what-multiplayer-ai-unlocks-for-your-business)
+ 
+-News
++November 2, 2026
++
++[## What does multiplayer AI actually unlock for my business?](/blog/what-multiplayer-ai-unlocks-for-your-business)
++
++Stories from the field As a Solutions Engineer at Dust, I spend a lot of my time selling Dust to people who already use Claude extensively. They show up to...
++
++[Read full article](/blog/what-multiplayer-ai-unlocks-for-your-business)
++
++[![Mantu Dust](https://images.ctfassets.net/751ge4ljeqso/2ZCOa30dzd2W9uuG573B2z/9a27671103bd7521392b83942675716c/dust-x-mantu-logo-rgb-tagline-color-1-1920x1080__1_.png?w=3840&amp;fm=webp&amp;q=75)
+ 
+ October 15, 2026
+ 
+-[## Dust and Mantu partner to bring agentic AI into everyday operations](/blog/dust-and-mantu-partner-to-bring-agentic-ai-into-everyday-operations)
++### Dust and Mantu partner to bring agentic AI into everyday operations
+ 
+ We’re proud to announce our partnership with Mantu, a global consulting and services group. Together, we’ll help organizations move from AI ambition to...
+ 
+-[Read full article](/blog/dust-and-mantu-partner-to-bring-agentic-ai-into-everyday-operations)
+-
+-[![Dust x Index](https://images.ctfassets.net/751ge4ljeqso/2mREBaoBJCrepIVzSLEyHo/d67408423140c051f950718d4f664949/Dust_x_Index.png?w=3840&amp;fm=webp&amp;q=75)
++News](/blog/d&lt;/pre&gt;</description><guid isPermaLink="false">b2632982fa1a6422</guid><pubDate>Mon, 02 Nov 2026 17:53:53 +0000</pubDate></item><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -59,17 +59,25 @@
  
