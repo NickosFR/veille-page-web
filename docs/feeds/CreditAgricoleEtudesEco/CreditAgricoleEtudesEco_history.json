@@ -957,5 +957,12 @@
     "detected_at": "2026-11-01T20:16:23.266375+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -175,7 +175,7 @@\n \n Image principale\n \n-[![La minute pédago – La France décroche-t-elle ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/France-economie-shutterstock_2677916793-1920px.jpg?itok=pvG5CFDi \"La minute pédago – La France décroche-t-elle ?\")](https://etudes-economiques.credit-agricole.com/fr/france-conjoncture-flash-pib-lactivite-decoit-de-nouveau-au-troisieme-trimestre-01-apres-00)\n+![La minute pédago – La France décroche-t-elle ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-05/France-economie-shutterstock_2677916793-1920px.jpg?itok=6IzWxpnm \"La minute pédago – La France décroche-t-elle ?\")\n \n [France](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A18)\n "
+  },
+  {
+    "guid": "51846848b1fe1fb5",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-11-02T00:20:00.221316+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -175,7 +175,7 @@\n \n Image principale\n \n-![La minute pédago – La France décroche-t-elle ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-05/France-economie-shutterstock_2677916793-1920px.jpg?itok=6IzWxpnm \"La minute pédago – La France décroche-t-elle ?\")\n+[![La minute pédago – La France décroche-t-elle ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-05/France-economie-shutterstock_2677916793-1920px.jpg?itok=pvG5CFDi \"La minute pédago – La France décroche-t-elle ?\")](https://etudes-economiques.credit-agricole.com/fr/france-conjoncture-flash-pib-lactivite-decoit-de-nouveau-au-troisieme-trimestre-01-apres-00)\n \n [France](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A18)\n "
   }
 ]
