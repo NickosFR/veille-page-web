@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 02 Nov 2026 00:20:01 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 02 Nov 2026 07:20:26 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -93,7 +93,7 @@
+ 
+ Image principale
+ 
+-[![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX "Royaume-Uni  - Scénario")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)
++![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=EXROkFVS "Royaume-Uni  - Scénario")
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+ &lt;/pre&gt;</description><guid isPermaLink="false">6c6dec08d7fb4dc1</guid><pubDate>Mon, 02 Nov 2026 07:20:24 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -175,7 +175,7 @@
  
@@ -1074,23 +1084,4 @@
 +
 +[Focus Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A284)
 +
-+[Immobilier résidentiel – Le vieillissement d&lt;/pre&gt;</description><guid isPermaLink="false">21a48e9627f1b7dd</guid><pubDate>Sun, 11 Oct 2026 18:38:53 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--506
-+505
- 
- Publications ECO
- 
-@@ -113,7 +113,7 @@
- 
- Image principale
- 
--[![Scénario zone euro](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Europe-scenario-carte-GettyImages-2162898337-1920px.jpg?itok=UkZYDmYt "Scénario zone euro")](https://etudes-economiques.credit-agricole.com/fr/zone-euro-scenario-2026-2027-normalisation-plutot-que-rebond)
-+![Scénario zone euro](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Europe-scenario-carte-GettyImages-2162898337-1920px.jpg?itok=lRBtFLl0 "Scénario zone euro")
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">136ebaaa0f8d5572</guid><pubDate>Sun, 11 Oct 2026 13:48:31 +0000</pubDate></item></channel></rss>
++[Immobilier résidentiel – Le vieillissement d&lt;/pre&gt;</description><guid isPermaLink="false">21a48e9627f1b7dd</guid><pubDate>Sun, 11 Oct 2026 18:38:53 +0000</pubDate></item></channel></rss>
