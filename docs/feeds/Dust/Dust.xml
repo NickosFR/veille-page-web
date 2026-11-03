@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 03 Nov 2026 07:38:26 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 03 Nov 2026 15:53:31 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
++++ 
+@@ -59,17 +59,29 @@
+ 
+ [All](/blog)[Events](/blog?tag=Events)[Joining Dust](/blog?tag=Joining%20Dust)[News](/blog?tag=News)[Product](/blog?tag=Product)[Customer Stories](/customers)
+ 
+-[![What does multiplayer AI actually unlock for my business?](https://images.ctfassets.net/751ge4ljeqso/7e6T3CPJ2QnpJnypIu91eU/446d9d21f0a013d5448e2dd33950c18e/What_does_multiplayer_AI_actually_unlock_for_my_business?w=3840&amp;fm=webp&amp;q=75)](/blog/what-multiplayer-ai-unlocks-for-your-business)
++[![A Four-Level Framework for Using AI](https://images.ctfassets.net/751ge4ljeqso/3UtqjVCNvjsxuJSZ1lQqvU/74d247fc547b19ae6f62e945dcc0774a/A_Four-Level_Framework_for_Using_AI.png?w=3840&amp;fm=webp&amp;q=75)](/blog/four-level-framework-for-using-ai)
++
++November 3, 2026
++
++[## From AI as a Tool to AI as a Teammate: A Four-Level Framework for Using AI](/blog/four-level-framework-for-using-ai)
++
++Since joining Dust, a number of people have asked me what it’s been like. Dust is AI native, and thus I’ve been asked a number of times: What does it actually...
++
++[Read full article](/blog/four-level-framework-for-using-ai)
++
++[![dust-x-artefact-logo-blue-](https://images.ctfassets.net/751ge4ljeqso/7FbF6HCCT8SwhPQZDcOr36/755dc6287770467335e22ad65cbe5092/dust-x-artefact-logo-blue-1-1920x1080__2_.png?w=3840&amp;fm=webp&amp;q=75)
++
++November 3, 2026
++
++### Dust and Artefact partner to bring governed AI agents into daily work
++
++Artefact and Dust help enterprises move beyond AI experimentation and change how their people and organizations work. Paris, November 3rd 2026 - Today, Dust...](/blog/dust-and-artefact-partner-to-bring-governed-ai-agents-into-daily-work)[![What does multiplayer AI actually unlock for my business?](https://images.ctfassets.net/751ge4ljeqso/7e6T3CPJ2QnpJnypIu91eU/446d9d21f0a013d5448e2dd33950c18e/What_does_multiplayer_AI_actually_unlock_for_my_business?w=3840&amp;fm=webp&amp;q=75)
+ 
+ November 2, 2026
+ 
+-[## What does multiplayer AI actually unlock for my business?](/blog/what-multiplayer-ai-unlocks-for-&lt;/pre&gt;</description><guid isPermaLink="false">302e44bcf341624a</guid><pubDate>Tue, 03 Nov 2026 15:53:30 +0000</pubDate></item><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -59,19 +59,25 @@
  
