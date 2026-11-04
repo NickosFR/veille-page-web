@@ -999,5 +999,12 @@
     "detected_at": "2026-11-03T15:53:31.845029+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -215,7 +215,7 @@\n \n Image principale\n \n-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-11/Monde-graphiques-GettyImages-956718822-1920px.jpg?itok=zZi7SOUh)](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-30-octobre-2026)\n+![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-11/Monde-graphiques-GettyImages-956718822-1920px.jpg?itok=O6gYC7NR)\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
+  },
+  {
+    "guid": "2053a3229e747cbb",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-11-04T08:47:53.132982+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -291,7 +291,7 @@\n \n Image principale\n \n-[![GÉOPOLITIQUE – Ce que les Midterms ne changeront pas : la crise du compromis politique](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/USA-polarisation-shutterstock_2191040749-1920px.jpg?itok=DmljZPZ4 \"GÉOPOLITIQUE – Ce que les Midterms ne changeront pas : la crise du compromis politique\")](https://etudes-economiques.credit-agricole.com/fr/geopolitique-ce-que-les-midterms-ne-changeront-pas-la-crise-du-compromis-politique)\n+![GÉOPOLITIQUE – Ce que les Midterms ne changeront pas : la crise du compromis politique](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/USA-polarisation-shutterstock_2191040749-1920px.jpg?itok=CIMnlJHu \"GÉOPOLITIQUE – Ce que les Midterms ne changeront pas : la crise du compromis politique\")\n \n [Etats-Unis](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A48)\n "
   }
 ]
