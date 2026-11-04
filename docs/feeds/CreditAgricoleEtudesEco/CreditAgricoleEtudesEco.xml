@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 04 Nov 2026 16:53:54 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 04 Nov 2026 22:27:15 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -215,7 +215,7 @@
+ 
+ Image principale
+ 
+-![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-11/Monde-graphiques-GettyImages-956718822-1920px.jpg?itok=O6gYC7NR)
++[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-11/Monde-graphiques-GettyImages-956718822-1920px.jpg?itok=zZi7SOUh)](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-30-octobre-2026)
+ 
+ [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
+ 
+@@ -291,7 +291,7 @@
+ 
+ Image principale
+ 
+-![GÉOPOLITIQUE – Ce que les Midterms ne changeront pas : la crise du compromis politique](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/USA-polarisation-shutterstock_2191040749-1920px.jpg?itok=CIMnlJHu "GÉOPOLITIQUE – Ce que les Midterms ne changeront pas : la crise du compromis politique")
++[![GÉOPOLITIQUE – Ce que les Midterms ne changeront pas : la crise du compromis politique](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/USA-polarisation-shutterstock_2191040749-1920px.jpg?itok=DmljZPZ4 "GÉOPOLITIQUE – Ce que les Midterms ne changeront pas : la crise du compromis politique")](https://etudes-economiques.credit-agricole.com/fr/geopolitique-ce-que-les-midterms-ne-changeront-pas-la-crise-du-compromis-politique)
+ 
+ [Etats-Unis](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A48)
+ &lt;/pre&gt;</description><guid isPermaLink="false">cd75760a78af407a</guid><pubDate>Wed, 04 Nov 2026 22:27:14 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -291,7 +291,7 @@
  
@@ -1033,14 +1052,4 @@
 +[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
  
  [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">cba67e89abe9cfe5</guid><pubDate>Wed, 14 Oct 2026 07:11:10 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -195,7 +195,7 @@
- 
- Image principale
- 
--![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-12/Monde-graphiques-GettyImages-1207186327-1920px.jpg?itok=AXv9150f "Monde – L'actualité de la semaine")
-+[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-12/Monde-graphiques-GettyImages-1207186327-1920px.jpg?itok=bOGbW_Q3 "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-9-octobre-2026)
- 
- [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
- &lt;/pre&gt;</description><guid isPermaLink="false">3cbdde9086a21e2e</guid><pubDate>Tue, 13 Oct 2026 17:58:38 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">cba67e89abe9cfe5</guid><pubDate>Wed, 14 Oct 2026 07:11:10 +0000</pubDate></item></channel></rss>
