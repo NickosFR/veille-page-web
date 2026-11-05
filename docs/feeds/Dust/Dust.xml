@@ -1,5 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 05 Nov 2026 11:55:33 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — Dust</title><link>https://dust.tt/blog</link><description>Changements détectés sur les pages surveillées par la veille « Dust ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 05 Nov 2026 19:38:19 +0000</lastBuildDate><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
++++ 
+@@ -59,17 +59,23 @@
+ 
+ [All](/blog)[Events](/blog?tag=Events)[Joining Dust](/blog?tag=Joining%20Dust)[News](/blog?tag=News)[Product](/blog?tag=Product)[Customer Stories](/customers)
+ 
+-[![A Four-Level Framework for Using AI](https://images.ctfassets.net/751ge4ljeqso/3UtqjVCNvjsxuJSZ1lQqvU/74d247fc547b19ae6f62e945dcc0774a/A_Four-Level_Framework_for_Using_AI.png?w=3840&amp;fm=webp&amp;q=75)](/blog/four-level-framework-for-using-ai)
++[![Dust x Datadog](https://images.ctfassets.net/751ge4ljeqso/4mtNZQcm0h3eGbintNwqg7/9fe05dd5e5ca21eba0861360df94f363/Dust_x_Datadog.jpg?w=3840&amp;fm=webp&amp;q=75)](/blog/datadog-ai-guard-inference-hooks)
++
++November 5, 2026
++
++[## Introducing inference hooks with Datadog AI Guard](/blog/datadog-ai-guard-inference-hooks)
++
++Dust’s inference hooks connect AI Guard evaluations to agent execution, so teams can monitor or gate interactions at configured checkpoints. Companies are...
++
++[Read full article](/blog/datadog-ai-guard-inference-hooks)
++
++[![A Four-Level Framework for Using AI](https://images.ctfassets.net/751ge4ljeqso/3UtqjVCNvjsxuJSZ1lQqvU/74d247fc547b19ae6f62e945dcc0774a/A_Four-Level_Framework_for_Using_AI.png?w=3840&amp;fm=webp&amp;q=75)
+ 
+ November 3, 2026
+ 
+-[## From AI as a Tool to AI as a Teammate: A Four-Level Framework for Using AI](/blog/four-level-framework-for-using-ai)
++### From AI as a Tool to AI as a Teammate: A Four-Level Framework for Using AI
+ 
+-Since joining Dust, a number of people have asked me what it’s been like. Dust is AI native, and thus I’ve been asked a number of times: What does it actually...
+-
+-[Read full article](/blog/four-level-framework-for-using-ai)
+-
+-[![dust-x-artefact-logo-blue-](https://images.ctfassets.net/751ge4ljeqso/7FbF6HCCT8SwhPQZDcOr36/755dc6287770467335e22ad65cbe5092/dust-x-artefact-logo-blue-1-1920x1080__2_.png?w=3840&amp;fm=webp&amp;q=75)
++Since joining Dust, a number of people have asked me what it’s been like. Dust is AI native, and thus I’ve been asked a number of times: What does it actually...](/blog&lt;/pre&gt;</description><guid isPermaLink="false">2b7760f9c7f9354f</guid><pubDate>Thu, 05 Nov 2026 19:38:18 +0000</pubDate></item><item><title>Changement détecté sur https://dust.tt/blog</title><link>https://dust.tt/blog</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -75,7 +75,9 @@
  
