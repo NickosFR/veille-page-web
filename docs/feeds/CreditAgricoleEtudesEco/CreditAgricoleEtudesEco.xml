@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 05 Nov 2026 03:14:37 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 05 Nov 2026 11:55:34 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -73,7 +73,7 @@
+ 
+ Image principale
+ 
+-[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=Tkzsqcnc "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-navigation-en-eaux-troubles-garder-la-tete-hors-de-leau)
++[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/image_lire_aussi/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=MM4a_nvq "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-navigation-en-eaux-troubles-garder-la-tete-hors-de-leau)
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+ 
+@@ -157,6 +157,24 @@
+ 
+ Image principale
+ 
++[![ZONE EURO – Conjoncture – Flash PIB](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Europe_GettyImages-1003379918_1920px.jpg?itok=fZh_JZ9e "ZONE EURO – Conjoncture – Flash PIB")](https://etudes-economiques.credit-agricole.com/fr/zone-euro-conjoncture-flash-pib-la-croissance-saffaiblit-au-coeur)
++
++[Zone euro](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A43)
++
++[Zone euro – Conjoncture – Flash PIB : la croissance s’affaiblit au cœur](/fr/zone-euro-conjoncture-flash-pib-la-croissance-saffaiblit-au-coeur)
++
++Date de publication
++
++05 Novembre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
+ [![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/PR-lib-revpoints%201.png?itok=LdjyTtBk)](https://etudes-economiques.credit-agricole.com/fr/revolut-linterface-devant-bruxelles)
+ 
+ [Banque de détail](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A203)
+@@ -233,7 +251,7 @@
+ 
+ Image principale
+ 
+-[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-60176&lt;/pre&gt;</description><guid isPermaLink="false">3e3cbbd5999449b7</guid><pubDate>Thu, 05 Nov 2026 11:55:33 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -215,7 +215,7 @@
  
@@ -1033,23 +1073,4 @@
 +503
  
  Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">db8f5a2a6b6fc4b8</guid><pubDate>Wed, 14 Oct 2026 13:22:01 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -93,7 +93,7 @@
- 
- Image principale
- 
--[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/image_lire_aussi/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=kOkqHjSW "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
-+[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- 
-@@ -285,7 +285,7 @@
- 
- Image principale
- 
--[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/image_lire_aussi/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=kOkqHjSW "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
-+[![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=NqITIa7A "Webconférence - Monde – Scénario 2026-2027")](https://etudes-economiques.credit-agricole.com/fr/monde-scenario-2026-2027-les-couches-de-risque-se-superposent)
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">cba67e89abe9cfe5</guid><pubDate>Wed, 14 Oct 2026 07:11:10 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">db8f5a2a6b6fc4b8</guid><pubDate>Wed, 14 Oct 2026 13:22:01 +0000</pubDate></item></channel></rss>
