@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 06 Nov 2026 00:49:35 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 06 Nov 2026 07:43:02 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-504
++505
+ 
+ Publications ECO
+ &lt;/pre&gt;</description><guid isPermaLink="false">93feec1f39593920</guid><pubDate>Fri, 06 Nov 2026 07:43:00 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -73,6 +73,26 @@
  
@@ -1097,14 +1107,4 @@
  [![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX "Royaume-Uni  - Scénario")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)
  
  [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
-&lt;/pre&gt;</description><guid isPermaLink="false">fc1b5d5e762483d0</guid><pubDate>Thu, 15 Oct 2026 18:02:50 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--503
-+502
- 
- Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">c42e209e091d897b</guid><pubDate>Thu, 15 Oct 2026 13:07:41 +0000</pubDate></item></channel></rss>
+&lt;/pre&gt;</description><guid isPermaLink="false">fc1b5d5e762483d0</guid><pubDate>Thu, 15 Oct 2026 18:02:50 +0000</pubDate></item></channel></rss>
