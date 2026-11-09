@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 09 Nov 2026 01:28:20 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 09 Nov 2026 09:16:46 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -113,7 +113,7 @@
+ 
+ Image principale
+ 
+-![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=EXROkFVS "Royaume-Uni  - Scénario")
++[![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX "Royaume-Uni  - Scénario")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)
+ 
+ [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+ 
+@@ -175,7 +175,7 @@
+ 
+ Image principale
+ 
+-![Royaume-Uni – Un budget 2026 sous contrainte, entre soutien à la croissance et rigueur budgétaire](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/UK-Westminster-drapeau-GettyImages-1080705820-1920px.jpg?itok=-34hdXgL "Royaume-Uni – Un budget 2026 sous contrainte, entre soutien à la croissance et rigueur budgétaire")
++[![Royaume-Uni – Un budget 2026 sous contrainte, entre soutien à la croissance et rigueur budgétaire](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/UK-Westminster-drapeau-GettyImages-1080705820-1920px.jpg?itok=fhz10PCV "Royaume-Uni – Un budget 2026 sous contrainte, entre soutien à la croissance et rigueur budgétaire")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-un-budget-2026-sous-contrainte-entre-soutien-la-croissance-et-rigueur-budgetaire)
+ 
+ [Royaume-Uni](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A59)
+ &lt;/pre&gt;</description><guid isPermaLink="false">1de34d613fe57952</guid><pubDate>Mon, 09 Nov 2026 09:16:44 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -157,7 +157,7 @@
  
@@ -1116,14 +1135,4 @@
 @@ -249,7 +289,7 @@
  
  Image principale
-&lt;/pre&gt;</description><guid isPermaLink="false">5926d98b8fb943fe</guid><pubDate>Mon, 19 Oct 2026 19:04:16 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--502
-+500
- 
- Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">2486ca7a4544a24f</guid><pubDate>Mon, 19 Oct 2026 12:21:19 +0000</pubDate></item></channel></rss>
+&lt;/pre&gt;</description><guid isPermaLink="false">5926d98b8fb943fe</guid><pubDate>Mon, 19 Oct 2026 19:04:16 +0000</pubDate></item></channel></rss>
