@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 11 Nov 2026 08:55:47 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 11 Nov 2026 16:56:54 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -213,7 +213,7 @@
+ 
+ Image principale
+ 
+-![ZONE EURO – Conjoncture – Flash PIB](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Europe_GettyImages-1003379918_1920px.jpg?itok=VQtShC8M "ZONE EURO – Conjoncture – Flash PIB")
++[![ZONE EURO – Conjoncture – Flash PIB](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Europe_GettyImages-1003379918_1920px.jpg?itok=fZh_JZ9e "ZONE EURO – Conjoncture – Flash PIB")](https://etudes-economiques.credit-agricole.com/fr/zone-euro-conjoncture-flash-pib-la-croissance-saffaiblit-au-coeur)
+ 
+ [Zone euro](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A43)
+ &lt;/pre&gt;</description><guid isPermaLink="false">815d0afe5d5456bd</guid><pubDate>Wed, 11 Nov 2026 16:56:53 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -93,7 +93,7 @@
  
@@ -1068,29 +1078,4 @@
 +[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=Um3Ecs51 "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-16-octobre-2026)
  
  [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
- &lt;/pre&gt;</description><guid isPermaLink="false">42105de1da94549d</guid><pubDate>Wed, 21 Oct 2026 13:30:27 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -179,7 +179,7 @@
- 
- Image principale
- 
--[![Immobilier résidentiel – Le vieillissement démographique](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Immobilier_shutterstock_2482312799-1920px_0.jpg?itok=KGACP0NS "Immobilier résidentiel – Le vieillissement démographique")](https://etudes-economiques.credit-agricole.com/fr/immobilier-residentiel-le-vieillissement-demographique-attenuera-t-il-la-penurie-de-logements-en-0)
-+[![Allemagne - Immobilier résidentiel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Immobilier-1920px-20261020-1137.jpg?itok=69GQSB2t "Allemagne - Immobilier résidentiel")](https://etudes-economiques.credit-agricole.com/fr/immobilier-residentiel-le-vieillissement-demographique-attenuera-t-il-la-penurie-de-logements-en-0)
- 
- [Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A57)
- 
-@@ -197,7 +197,7 @@
- 
- Image principale
- 
--[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=Um3Ecs51 "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-16-octobre-2026)
-+![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=OvlFn21d "Monde – L'actualité de la semaine")
- 
- [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
- 
-@@ -289,7 +289,7 @@
- 
- Image principale
- 
--![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2025-12/Monde-graphiques-GettyImages-1207186327-1920px.jpg?itok=AXv9150f "Monde – L'actualité de la semaine")
-+[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2025-12/Monde-graphiques-GettyImages-120718&lt;/pre&gt;</description><guid isPermaLink="false">2152903c24410b36</guid><pubDate>Tue, 20 Oct 2026 14:44:14 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">42105de1da94549d</guid><pubDate>Wed, 21 Oct 2026 13:30:27 +0000</pubDate></item></channel></rss>
