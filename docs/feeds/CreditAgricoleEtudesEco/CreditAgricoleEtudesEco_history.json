@@ -1104,5 +1104,12 @@
     "detected_at": "2026-11-11T16:56:53.005563+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -213,7 +213,7 @@\n \n Image principale\n \n-![ZONE EURO – Conjoncture – Flash PIB](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Europe_GettyImages-1003379918_1920px.jpg?itok=VQtShC8M \"ZONE EURO – Conjoncture – Flash PIB\")\n+[![ZONE EURO – Conjoncture – Flash PIB](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Europe_GettyImages-1003379918_1920px.jpg?itok=fZh_JZ9e \"ZONE EURO – Conjoncture – Flash PIB\")](https://etudes-economiques.credit-agricole.com/fr/zone-euro-conjoncture-flash-pib-la-croissance-saffaiblit-au-coeur)\n \n [Zone euro](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A43)\n "
+  },
+  {
+    "guid": "ddb93c2c2ef3379d",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-11-12T15:47:58.552634+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-503\n+502\n \n Publications ECO\n \n@@ -157,7 +157,7 @@\n \n Image principale\n \n-[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Theme_panorama-global_1920px_4.jpg?itok=TwEumonQ \"Monde – L'actualité de la semaine\")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-6-novembre-2026)\n+![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Theme_panorama-global_1920px_4.jpg?itok=y_1sZhzL \"Monde – L'actualité de la semaine\")\n \n [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)\n "
   }
 ]
