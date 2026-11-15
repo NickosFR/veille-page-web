@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 15 Nov 2026 05:11:39 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 15 Nov 2026 13:33:11 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -249,7 +249,7 @@
+ 
+ Image principale
+ 
+-[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Theme_panorama-global_1920px_4.jpg?itok=TwEumonQ "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-6-novembre-2026)
++![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Theme_panorama-global_1920px_4.jpg?itok=y_1sZhzL "Monde – L'actualité de la semaine")
+ 
+ [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
+ &lt;/pre&gt;</description><guid isPermaLink="false">5c0e5f2af4196e82</guid><pubDate>Sun, 15 Nov 2026 13:33:09 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -133,7 +133,7 @@
  
@@ -1021,14 +1031,4 @@
 +502
  
  Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">315467ba9e290e47</guid><pubDate>Sat, 24 Oct 2026 10:25:04 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -273,7 +273,7 @@
- 
- Image principale
- 
--![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=OvlFn21d "Monde – L'actualité de la semaine")
-+[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Monde-graphiques-GettyImages-2239907452-1920px.jpg?itok=Um3Ecs51 "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-16-octobre-2026)
- 
- [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
- &lt;/pre&gt;</description><guid isPermaLink="false">8cfca0738fdc4cce</guid><pubDate>Sat, 24 Oct 2026 05:27:08 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">315467ba9e290e47</guid><pubDate>Sat, 24 Oct 2026 10:25:04 +0000</pubDate></item></channel></rss>
