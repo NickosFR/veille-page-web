@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 16 Nov 2026 05:08:30 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 16 Nov 2026 14:59:58 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-503
++504
+ 
+ Publications ECO
+ 
+@@ -157,6 +157,22 @@
+ 
+ Image principale
+ 
++[![Espagne – Salaires ou marges ? Une autre voie](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Espagne-drapeau-billets-GettyImages-539835280-1920px.jpg?itok=-hs-ra0g "Espagne – Salaires ou marges ? Une autre voie")](https://etudes-economiques.credit-agricole.com/fr/espagne-salaires-ou-marges-une-autre-voie)
++
++[Espagne – Salaires ou marges ? Une autre voie](/fr/espagne-salaires-ou-marges-une-autre-voie)
++
++Date de publication
++
++16 Novembre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image principale
++
+ [![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/shutterstock_2495405421.jpg?itok=rxYsGeAU)](https://etudes-economiques.credit-agricole.com/fr/revolut-lamerique-est-deja-prise)
+ 
+ [Fintech](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A261)
+@@ -276,26 +292,6 @@
+ Date de publication
+ 
+ 06 Novembre 2026
+-
+- • 
+-
+-Type de contenu
+-
+-Publication ECO
+-
+-Image principale
+-
+-[![ESPAGNE](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-04/Espagne-Madrid-GettyImages-472624846-1920px.jpg?itok=3BHo-hk5 "ESPAGNE")](https://etudes-economiques.credit-agricole.com/fr/espagne-scenario-2026-2027-une-dynamique-persistante)
+-
+-[Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
+-
+-[Espagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A56)
+-
+-[Espagne – Scénario 2026-2027 : une dynamique persistante](/fr/espagne-scenario-2026-2027-une-dynamique-persistante)
+-
+-Date de publication
+-
+-05 Novembre 2026
+ 
+  • 
+ &lt;/pre&gt;</description><guid isPermaLink="false">5cb80f3d9d14b0d6</guid><pubDate>Mon, 16 Nov 2026 14:59:57 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -249,7 +249,7 @@
  
@@ -1021,14 +1081,4 @@
 +[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/shutterstock_1999698971.jpg?itok=dimykbce)](https://etudes-economiques.credit-agricole.com/fr/la-tokenisation-du-monde-est-en-marche)
  
  [Tech-Media-Télécom](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A4)
- &lt;/pre&gt;</description><guid isPermaLink="false">d74bc7eaa7d7a1c3</guid><pubDate>Sun, 25 Oct 2026 05:45:48 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -233,7 +233,7 @@
- 
- Image principale
- 
--[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/shutterstock_1999698971.jpg?itok=dimykbce)](https://etudes-economiques.credit-agricole.com/fr/la-tokenisation-du-monde-est-en-marche)
-+![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/shutterstock_1999698971.jpg?itok=HSk5IuXj)
- 
- [Tech-Media-Télécom](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A4)
- &lt;/pre&gt;</description><guid isPermaLink="false">305bb7cdf2661724</guid><pubDate>Sun, 25 Oct 2026 00:54:45 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">d74bc7eaa7d7a1c3</guid><pubDate>Sun, 25 Oct 2026 05:45:48 +0000</pubDate></item></channel></rss>
