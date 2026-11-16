@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 15 Nov 2026 23:47:51 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 16 Nov 2026 05:08:30 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -249,7 +249,7 @@
+ 
+ Image principale
+ 
+-![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Theme_panorama-global_1920px_4.jpg?itok=y_1sZhzL "Monde – L'actualité de la semaine")
++[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Theme_panorama-global_1920px_4.jpg?itok=TwEumonQ "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-6-novembre-2026)
+ 
+ [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
+ &lt;/pre&gt;</description><guid isPermaLink="false">ff1daff1351d40d7</guid><pubDate>Mon, 16 Nov 2026 05:08:29 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1021,14 +1031,4 @@
 +![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/shutterstock_1999698971.jpg?itok=HSk5IuXj)
  
  [Tech-Media-Télécom](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A4)
- &lt;/pre&gt;</description><guid isPermaLink="false">305bb7cdf2661724</guid><pubDate>Sun, 25 Oct 2026 00:54:45 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -329,7 +329,7 @@
- 
- [Image
- 
--![enjeux géopolitiques](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large_square/public/2025-07/vignette_geopolitique-425px-948628244.png?itok=w7N-KRFq "enjeux géopolitiques")](https://etudes-economiques.credit-agricole.com/fr/taxonomy/term/155)
-+![enjeux géopolitiques](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/rectangle_375x230/public/2025-07/vignette_geopolitique-425px-948628244.png?itok=cPsTQY6- "enjeux géopolitiques")](https://etudes-economiques.credit-agricole.com/fr/taxonomy/term/155)
- 
- ### Nom [Transition énergétique](/fr/taxonomy/term/92)
- &lt;/pre&gt;</description><guid isPermaLink="false">d5b33cb2c92328c2</guid><pubDate>Sat, 24 Oct 2026 14:17:25 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">305bb7cdf2661724</guid><pubDate>Sun, 25 Oct 2026 00:54:45 +0000</pubDate></item></channel></rss>
