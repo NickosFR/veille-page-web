@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sat, 21 Nov 2026 12:12:04 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sat, 21 Nov 2026 19:57:39 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-500
++499
+ 
+ Publications ECO
+ 
+@@ -195,7 +195,7 @@
+ 
+ Image principale
+ 
+-[![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Monde-graphiques-GettyImages-1207186327-1920px.jpg?itok=8OjFUYB0 "Monde – L'actualité de la semaine")](https://etudes-economiques.credit-agricole.com/fr/monde-lactualite-de-la-semaine-13-novembre-2026)
++![Monde – L'actualité de la semaine](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Monde-graphiques-GettyImages-1207186327-1920px.jpg?itok=MNisc7af "Monde – L'actualité de la semaine")
+ 
+ [Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
+ 
+@@ -231,7 +231,7 @@
+ 
+ Image principale
+ 
+-[![ROYAUME-UNI – Rebond de la croissance du PIB à 0,7% au T3, tiré par les activités liées à l’IA](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/UK-Economie-GettyImages-618442468-1920px.jpg?itok=cpd_tKdw "ROYAUME-UNI – Rebond de la croissance du PIB à 0,7% au T3, tiré par les activités exposées liées à l’IA")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-rebond-de-la-croissance-du-pib-au-t3-tire-par-les-activites-liees-lia)
++![ROYAUME-UNI – Rebond de la croissance du PIB à 0,7% au T3, tiré par les activités liées à l’IA](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/UK-Economie-GettyImages-618442468-1920px.jpg?itok=0ROi95BZ "ROYAUME-UNI – Rebond de la croissance du PIB à 0,7% au T3, tiré par les activités exposées liées à l’IA")
+ 
+ [Royaume-Uni](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A59)
+ 
+@@ -249,7 +249,7 @@
+ 
+ Image principale
+ 
+-[![Allemagne – La reprise à l’épreuve du troisième trimestre](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne-GettyImages-1330945058-1920px.png?itok=8jI3qpPC "Allemagne – La reprise à l’épreuve du troisième trimestre")](https://etu&lt;/pre&gt;</description><guid isPermaLink="false">235de6943e6c845c</guid><pubDate>Sat, 21 Nov 2026 19:57:38 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1080,14 +1113,4 @@
 +![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/shutterstock_1999698971.jpg?itok=HSk5IuXj)
  
  [Tech-Media-Télécom](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A4)
- &lt;/pre&gt;</description><guid isPermaLink="false">dca433ac9e5b123e</guid><pubDate>Tue, 27 Oct 2026 01:13:07 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--501
-+500
- 
- Publications ECO
- &lt;/pre&gt;</description><guid isPermaLink="false">b83d1f3f44d158f2</guid><pubDate>Sun, 25 Oct 2026 18:11:51 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">dca433ac9e5b123e</guid><pubDate>Tue, 27 Oct 2026 01:13:07 +0000</pubDate></item></channel></rss>
