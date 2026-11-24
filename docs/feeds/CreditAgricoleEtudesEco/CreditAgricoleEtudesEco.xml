@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 24 Nov 2026 08:45:38 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 24 Nov 2026 19:58:54 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -157,7 +157,7 @@
+ 
+ Image principale
+ 
+-[![Espagne – Salaires ou marges ? Une autre voie](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Espagne-drapeau-billets-GettyImages-539835280-1920px.jpg?itok=-hs-ra0g "Espagne – Salaires ou marges ? Une autre voie")](https://etudes-economiques.credit-agricole.com/fr/espagne-salaires-ou-marges-une-autre-voie)
++![Espagne – Salaires ou marges ? Une autre voie](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Espagne-drapeau-billets-GettyImages-539835280-1920px.jpg?itok=Ojjbb6uX "Espagne – Salaires ou marges ? Une autre voie")
+ 
+ [Espagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A56)
+ &lt;/pre&gt;</description><guid isPermaLink="false">b25501083fce753d</guid><pubDate>Tue, 24 Nov 2026 19:58:53 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -213,7 +213,7 @@
  
@@ -1046,31 +1056,4 @@
 +![Allemagne - Immobilier résidentiel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Allemagne_Immobilier-1920px-20261020-1137.jpg?itok=4wN6TOSd "Allemagne - Immobilier résidentiel")
  
  [Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A57)
- &lt;/pre&gt;</description><guid isPermaLink="false">923dd0ddacf5eb6e</guid><pubDate>Thu, 29 Oct 2026 16:39:45 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -73,13 +73,13 @@
- 
- Image principale
- 
--[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=Tkzsqcnc "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-navigation-en-eaux-troubles-garder-la-tete-hors-de-leau)
-+[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=Tkzsqcnc "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-navigation-en-eaux-troubles-garder-la-tete-hors-de-leau)
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- 
- [France](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A18)
- 
--[France – Navigation en eaux troubles : garder la tête hors de l’eau](/fr/france-navigation-en-eaux-troubles-garder-la-tete-hors-de-leau)
-+[France : Scénario 2026-2027 – Navigation en eaux troubles : garder la tête hors de l’eau](/fr/france-scenario-2026-2027-navigation-en-eaux-troubles-garder-la-tete-hors-de-leau)
- 
- Date de publication
- 
-@@ -157,13 +157,13 @@
- 
- Image principale
- 
--[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=Tkzsqcnc "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-navigation-en-eaux-troubles-garder-la-tete-hors-de-leau)
-+[![Scénario France](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-07/France-tour-Eiffel-GettyImages-601763009-1920px.jpg?itok=Tkzsqcnc "Scénario France")](https://etudes-economiques.credit-agricole.com/fr/france-scenario-2026-2027-navigation-en-eaux-troubles-garder-la-tete-hors-de-leau)
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- 
- [France](https://etudes-econo&lt;/pre&gt;</description><guid isPermaLink="false">90afb7ac79b8b0cb</guid><pubDate>Wed, 28 Oct 2026 17:57:40 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">923dd0ddacf5eb6e</guid><pubDate>Thu, 29 Oct 2026 16:39:45 +0000</pubDate></item></channel></rss>

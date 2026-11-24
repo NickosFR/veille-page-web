@@ -1237,5 +1237,12 @@
     "detected_at": "2026-11-23T23:28:50.327876+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -213,7 +213,7 @@\n \n Image principale\n \n-![Corée du Sud – Le « moment Corée » à l’épreuve du réel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Coree-du-Sud-economie-GettyImages-1477109115-1920px.jpg?itok=PhcQgu3n \"Corée du Sud – Le « moment Corée » à l’épreuve du réel\")\n+[![Corée du Sud – Le « moment Corée » à l’épreuve du réel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Coree-du-Sud-economie-GettyImages-1477109115-1920px.jpg?itok=BP5dQgkH \"Corée du Sud – Le « moment Corée » à l’épreuve du réel\")](https://etudes-economiques.credit-agricole.com/fr/coree-du-sud-le-moment-coree-lepreuve-du-reel)\n \n [Corée du Sud](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A88)\n "
+  },
+  {
+    "guid": "b25501083fce753d",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-11-24T19:58:53.565146+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -157,7 +157,7 @@\n \n Image principale\n \n-[![Espagne – Salaires ou marges ? Une autre voie](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Espagne-drapeau-billets-GettyImages-539835280-1920px.jpg?itok=-hs-ra0g \"Espagne – Salaires ou marges ? Une autre voie\")](https://etudes-economiques.credit-agricole.com/fr/espagne-salaires-ou-marges-une-autre-voie)\n+![Espagne – Salaires ou marges ? Une autre voie](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Espagne-drapeau-billets-GettyImages-539835280-1920px.jpg?itok=Ojjbb6uX \"Espagne – Salaires ou marges ? Une autre voie\")\n \n [Espagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A56)\n "
   }
 ]
