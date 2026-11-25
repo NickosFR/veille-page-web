@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 24 Nov 2026 19:58:54 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 25 Nov 2026 03:29:39 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -157,7 +157,7 @@
+ 
+ Image principale
+ 
+-![Espagne – Salaires ou marges ? Une autre voie](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Espagne-drapeau-billets-GettyImages-539835280-1920px.jpg?itok=Ojjbb6uX "Espagne – Salaires ou marges ? Une autre voie")
++[![Espagne – Salaires ou marges ? Une autre voie](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Espagne-drapeau-billets-GettyImages-539835280-1920px.jpg?itok=-hs-ra0g "Espagne – Salaires ou marges ? Une autre voie")](https://etudes-economiques.credit-agricole.com/fr/espagne-salaires-ou-marges-une-autre-voie)
+ 
+ [Espagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A56)
+ &lt;/pre&gt;</description><guid isPermaLink="false">d966bf58e380386b</guid><pubDate>Wed, 25 Nov 2026 03:29:37 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -157,7 +157,7 @@
  
@@ -1046,14 +1056,4 @@
 +[![Allemagne - Immobilier résidentiel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Immobilier-1920px-20261020-1137.jpg?itok=69GQSB2t "Allemagne - Immobilier résidentiel")](https://etudes-economiques.credit-agricole.com/fr/immobilier-residentiel-le-vieillissement-demographique-attenuera-t-il-la-penurie-de-logements-en-0)
  
  [Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A57)
- &lt;/pre&gt;</description><guid isPermaLink="false">ff1fd193ed4949c9</guid><pubDate>Thu, 29 Oct 2026 21:34:44 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -295,7 +295,7 @@
- 
- Image principale
- 
--[![Allemagne - Immobilier résidentiel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Immobilier-1920px-20261020-1137.jpg?itok=69GQSB2t "Allemagne - Immobilier résidentiel")](https://etudes-economiques.credit-agricole.com/fr/immobilier-residentiel-le-vieillissement-demographique-attenuera-t-il-la-penurie-de-logements-en-0)
-+![Allemagne - Immobilier résidentiel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Allemagne_Immobilier-1920px-20261020-1137.jpg?itok=4wN6TOSd "Allemagne - Immobilier résidentiel")
- 
- [Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A57)
- &lt;/pre&gt;</description><guid isPermaLink="false">923dd0ddacf5eb6e</guid><pubDate>Thu, 29 Oct 2026 16:39:45 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">ff1fd193ed4949c9</guid><pubDate>Thu, 29 Oct 2026 21:34:44 +0000</pubDate></item></channel></rss>
