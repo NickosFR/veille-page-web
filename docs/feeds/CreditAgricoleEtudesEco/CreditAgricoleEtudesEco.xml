@@ -1,5 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 25 Nov 2026 13:57:15 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 25 Nov 2026 23:00:00 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -56,7 +56,7 @@
+ 
+ Experts
+ 
+-496
++512
+ 
+ Publications ECO
+ 
+@@ -157,143 +157,157 @@
+ 
+ Image principale
+ 
+-[![Espagne – Salaires ou marges ? Une autre voie](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Espagne-drapeau-billets-GettyImages-539835280-1920px.jpg?itok=-hs-ra0g "Espagne – Salaires ou marges ? Une autre voie")](https://etudes-economiques.credit-agricole.com/fr/espagne-salaires-ou-marges-une-autre-voie)
+-
+-[Espagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A56)
+-
+-[Espagne – Salaires ou marges ? Une autre voie](/fr/espagne-salaires-ou-marges-une-autre-voie)
+-
+-Date de publication
+-
+-16 Novembre 2026
+-
+- • 
+-
+-Type de contenu
+-
+-Publication ECO
+-
+-Image principale
+-
+-[![](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/shutterstock_2495405421.jpg?itok=rxYsGeAU)](https://etudes-economiques.credit-agricole.com/fr/revolut-lamerique-est-deja-prise)
++[![Industrie allemande – Face à la vague de transmissions, la préservation du Mittelstand nécessite sa transformation](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Allemagne-industrie-shutterstock_2674293203-1920px.jpg?itok=R91XdFCY "Industrie allemande – Face à la vague de transmissions, la préservation du Mittelstand nécessite sa transformation")](https://etudes-economiques.credit-agricole.com/fr/industrie-allemande-face-la-vague-de-transmissions-la-preservation-du-mittelstand-necessite-sa)
++
++[Industrie](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A25)
++
++[Focus Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A284)
++
++[Industrie allemande – Face à la vague de transmissions, la préservation du Mittelstand nécessite sa transformation](/fr/industrie-allemande-face-la-vague-de-transmissions-la-preservation-du-mittelstand-necessite-sa)
++
++Date de publication
++
++25 Novembre 2026
++
++ • 
++
++Type de contenu
++
++Publication ECO
++
++Image&lt;/pre&gt;</description><guid isPermaLink="false">cbf5a75a1da48477</guid><pubDate>Wed, 25 Nov 2026 22:59:58 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1046,23 +1098,4 @@
 +
 +[Panorama global](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A23)
 +
-+[Monde – L'actualité de la semaine – 30 octobre 2026](/fr/monde-lactualite-de-l&lt;/pre&gt;</description><guid isPermaLink="false">d1dc834a8086652e</guid><pubDate>Fri, 30 Oct 2026 20:28:12 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -56,7 +56,7 @@
- 
- Experts
- 
--502
-+501
- 
- Publications ECO
- 
-@@ -295,7 +295,7 @@
- 
- Image principale
- 
--[![Allemagne - Immobilier résidentiel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-10/Allemagne_Immobilier-1920px-20261020-1137.jpg?itok=69GQSB2t "Allemagne - Immobilier résidentiel")](https://etudes-economiques.credit-agricole.com/fr/immobilier-residentiel-le-vieillissement-demographique-attenuera-t-il-la-penurie-de-logements-en-0)
-+![Allemagne - Immobilier résidentiel](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-10/Allemagne_Immobilier-1920px-20261020-1137.jpg?itok=4wN6TOSd "Allemagne - Immobilier résidentiel")
- 
- [Allemagne](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=geo%3A57)
- &lt;/pre&gt;</description><guid isPermaLink="false">411a3550ebe6e3f8</guid><pubDate>Fri, 30 Oct 2026 15:37:11 +0000</pubDate></item></channel></rss>
++[Monde – L'actualité de la semaine – 30 octobre 2026](/fr/monde-lactualite-de-l&lt;/pre&gt;</description><guid isPermaLink="false">d1dc834a8086652e</guid><pubDate>Fri, 30 Oct 2026 20:28:12 +0000</pubDate></item></channel></rss>
