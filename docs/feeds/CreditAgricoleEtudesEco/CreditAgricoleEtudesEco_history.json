@@ -1272,5 +1272,12 @@
     "detected_at": "2026-11-26T14:45:45.855312+00:00",
     "status": "changed",
     "diff": "--- \n+++ \n@@ -56,7 +56,7 @@\n \n Experts\n \n-512\n+511\n \n Publications ECO\n "
+  },
+  {
+    "guid": "35d2b0d36281d685",
+    "url": "https://etudes-economiques.credit-agricole.com/fr",
+    "detected_at": "2026-11-26T23:31:01.644937+00:00",
+    "status": "changed",
+    "diff": "--- \n+++ \n@@ -237,7 +237,7 @@\n \n Image principale\n \n-[![Énergies renouvelables – 25 ans d’Energiewende : quel bilan en Allemagne ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Allemagne-transition-energetique-shutterstock_2048746112.jpg?itok=M8A48xO8 \"Énergies renouvelables – 25 ans d’Energiewende : quel bilan en Allemagne ?\")](https://etudes-economiques.credit-agricole.com/fr/energies-renouvelables-25-ans-denergiewende-quel-bilan-en-allemagne)\n+![Énergies renouvelables – 25 ans d’Energiewende : quel bilan en Allemagne ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Allemagne-transition-energetique-shutterstock_2048746112.jpg?itok=n8Q4bHX0 \"Énergies renouvelables – 25 ans d’Energiewende : quel bilan en Allemagne ?\")\n \n [Transition énergétique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A92)\n "
   }
 ]

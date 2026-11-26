@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 26 Nov 2026 14:45:47 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Veille — CreditAgricoleEtudesEco</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>Changements détectés sur les pages surveillées par la veille « CreditAgricoleEtudesEco ».</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 26 Nov 2026 23:31:02 +0000</lastBuildDate><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
++++ 
+@@ -237,7 +237,7 @@
+ 
+ Image principale
+ 
+-[![Énergies renouvelables – 25 ans d’Energiewende : quel bilan en Allemagne ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-11/Allemagne-transition-energetique-shutterstock_2048746112.jpg?itok=M8A48xO8 "Énergies renouvelables – 25 ans d’Energiewende : quel bilan en Allemagne ?")](https://etudes-economiques.credit-agricole.com/fr/energies-renouvelables-25-ans-denergiewende-quel-bilan-en-allemagne)
++![Énergies renouvelables – 25 ans d’Energiewende : quel bilan en Allemagne ?](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-11/Allemagne-transition-energetique-shutterstock_2048746112.jpg?itok=n8Q4bHX0 "Énergies renouvelables – 25 ans d’Energiewende : quel bilan en Allemagne ?")
+ 
+ [Transition énergétique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A92)
+ &lt;/pre&gt;</description><guid isPermaLink="false">35d2b0d36281d685</guid><pubDate>Thu, 26 Nov 2026 23:31:01 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
 +++ 
 @@ -56,7 +56,7 @@
  
@@ -1043,14 +1053,4 @@
 +![Webconférence - Monde – Scénario 2026-2027](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-07/Monde-Scenario-GettyImages-813402032-1920px.jpg?itok=-OTY6uuz "Webconférence - Monde – Scénario 2026-2027")
  
  [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">0cfd5eaa70eeb360</guid><pubDate>Sat, 31 Oct 2026 13:22:37 +0000</pubDate></item><item><title>Changement détecté sur https://etudes-economiques.credit-agricole.com/fr</title><link>https://etudes-economiques.credit-agricole.com/fr</link><description>&lt;pre&gt;--- 
-+++ 
-@@ -93,7 +93,7 @@
- 
- Image principale
- 
--[![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/card_375_280/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=P5njgfLX "Royaume-Uni  - Scénario")](https://etudes-economiques.credit-agricole.com/fr/royaume-uni-scenario-2026-2027-leconomie-resiste-mais-letau-se-resserre)
-+![Royaume-Uni  - Scénario](/s3-b-dj-prod-drupal-internet/s3fs-public/styles/large/public/2026-03/UK-Tower-Bridge-GettyImages-1071006750-1920px.jpg?itok=EXROkFVS "Royaume-Uni  - Scénario")
- 
- [Scénario macroéconomique](https://etudes-economiques.credit-agricole.com/search?f%5B0%5D=theme%3A232)
- &lt;/pre&gt;</description><guid isPermaLink="false">25e246a4811c439c</guid><pubDate>Sat, 31 Oct 2026 06:41:50 +0000</pubDate></item></channel></rss>
+ &lt;/pre&gt;</description><guid isPermaLink="false">0cfd5eaa70eeb360</guid><pubDate>Sat, 31 Oct 2026 13:22:37 +0000</pubDate></item></channel></rss>
